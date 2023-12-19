@@ -1,0 +1,53 @@
+/* Reset some default styles */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar styles */
+.navbar {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+/* Logo styles */
+.logo img {
+    width: 80px;
+    height: auto;
+}
+
+/* Navigation links styles */
+.nav-links a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 16px;
+}
+
+/* Social icons styles */
+.social-icons img {
+    width: 30px;
+    height: auto;
+    margin-left: 15px;
+}
+
+/* Responsive styles */
+@media screen and (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .nav-links {
+        margin-top: 15px;
+        order: 3; /* Move it to the bottom */
+    }
+
+    .social-icons {
+        order: 2; /* Move it above the navigation links */
+    }
+}

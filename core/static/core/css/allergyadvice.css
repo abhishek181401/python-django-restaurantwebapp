@@ -1,0 +1,30 @@
+.allergyadvice-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.ingredients-section, .allergy-section, .qr-section {
+    margin-top: 20px;
+}
+
+.ingredient-card {
+    background-color: #f7f7f7;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.ingredient-card ul {
+    list-style: none;
+    padding: 0;
+}
+
+.qr-code {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.qr-code img {
+    max-width: 100%;
+    height: auto;
+}

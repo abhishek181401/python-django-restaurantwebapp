@@ -1,0 +1,22 @@
+/* Style for the services container */
+.services-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Style for each section */
+.video-section,
+.private-party-section,
+.catering-section,
+.get-in-touch-section {
+    margin-bottom: 40px;
+}
+
+/* Style for the QR code image */
+.qr-code img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Add more styles as needed */

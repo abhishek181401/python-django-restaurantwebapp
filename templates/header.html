@@ -1,0 +1,17 @@
+{% load static %}
+<link rel="stylesheet" href= "{% static 'css/header.css'%}">
+<nav class="navbar">
+    <a href="{% url 'index'%}"><div class="logo"><img src="{% static 'core/images/logo.png' %}" alt="Momo Logo"></div>
+    <div class="nav-links">
+        <a href="{% url 'about_us' %}">About Us</a>
+        <a href="{% url 'our_services'%}">Our Services</a>
+        <a href="{% url 'our_menu'%}">Our Menu</a>
+        <a href="{% url 'allergy_advice' %}">Allergy Advice</a>
+        <a href="{% url 'contact_us'%}">Contact Us</a>
+    </div>
+    <div class="social-icons">
+        <img src="{% static 'core/images/facebook.png' %}" alt="Facebook Logo">
+        <img src="{% static 'core/images/instagram.png' %}" alt="Instagram Logo">
+        <img src="{% static 'core/images/tiktok.png' %}" alt="TikTok Logo">
+    </div>
+</nav>

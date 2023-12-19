@@ -1,0 +1,64 @@
+<!-- ourmenu.html -->
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %} Everest Momo | Our Menu {% endblock %}
+
+{% block customcss %}
+    <link rel="stylesheet" href="{% static 'core/css/ourmenu.css' %}">
+{% endblock %}
+
+{% block content %}
+    {% include 'header.html' %}
+
+    <section class="menu-section">
+        <h2>Our Menu</h2>
+
+        <!-- QR Code Section -->
+        <section class="qr-section">
+            <h3>Scan Me</h3>
+            <div class="qr-code">
+                <!-- Add your QR code image here -->
+                <img src="{% static 'core/images/qr_our_menu.png'%}" height="100" width="100" alt="Menu QR Code">
+            </div>
+        </section>
+        <h2>Our Menu</h2>
+
+        {% for recipe in recipes %}
+            {% if recipe.type == "Buff" %}
+                <!-- Buff Momo Section -->
+                <section class="momo-section">
+                    <h3>Buff Momo</h3>
+                    <div class="momo-item">
+                        <img src="{{ recipe.momo_picture.url }}" alt="{{ recipe.name }}">
+                        <p>Description: Delicious buff momo with special spices.</p>
+                        <p>Price: $5.99</p>
+                    </div>
+                </section>
+            {% endif %}
+            {% if recipe.type == "Chicken" %}
+                <!-- Chicken Momo Section -->
+                <section class="momo-section">
+                    <h3>Chicken Momo</h3>
+                    <div class="momo-item">
+                        <img src="{{ recipe.momo_picture.url }}" alt="{{ recipe.name }}">
+                        <p>Description: Mouthwatering chicken momo with a perfect blend of flavors.</p>
+                        <p>Price: $6.99</p>
+                    </div>
+                </section>
+            {% endif %}
+            {% if recipe.type == "Veg"%}
+                <!-- Chicken Momo Section -->
+                <section class="momo-section">
+                    <h3>Chicken Momo</h3>
+                    <div class="momo-item">
+                        <img src="{{ recipe.momo_picture.url }}" alt="{{ recipe.name }}">
+                        <p>Description: Mouthwatering chicken momo with a perfect blend of flavors.</p>
+                        <p>Price: $6.99</p>
+                    </div>
+                </section>
+            {% endif %}
+        {% endfor %}
+    
+    {% include 'footer.html' %}
+{% endblock %}

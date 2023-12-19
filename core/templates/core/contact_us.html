@@ -1,0 +1,52 @@
+{% extends 'base.html'%}
+{% load static %}
+
+{% block title %} Everest Momo | Contact Us {% endblock %}
+{% block customcss %}
+<link rel="stylesheet" href="{% static 'core/css/contactus.css'%}">
+<link rel="stylesheet" href="{% static 'core/css/form.css'%}">
+{% endblock %}
+
+{% block content %}
+{% include 'header.html'%}
+
+<section class="contact-section">
+    <h2>Our Contact</h2>
+    <div class="contact-cards">
+        <div class="contact-card">
+            <h3>Location</h3>
+           
+            
+            {% for owner in owner %}
+            <p>{{ owner.location }}</p>
+        {% endfor %}
+         
+        </div>
+        
+       
+        <div class="contact-card">
+            <h3>Phone</h3>
+            <p>{% for contact in contact_nums %}
+                {% if contact.number.0 == '0' %}
+                    <li>Telephone: {{ contact.number }}</li>
+                {% else %}
+                    <li>Mobile: {{ contact.number }}</li>
+                {% endif %}
+            {% endfor %}<br>
+              
+             
+        </div>
+        <div class="contact-card">
+            <h3>Service Time</h3>
+            <p>Monday to Friday: 8 am - 8 pm<br>Saturday to Sunday: Closed</p>
+        </div>
+    </div>
+</section>
+
+{% include 'core/form.html' %}
+
+
+{% include "footer.html" %}
+
+
+{% endblock %}

@@ -1,0 +1,55 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block title %} Everest Momo | Our Services {% endblock %}
+
+{% block customcss %}
+    <link rel="stylesheet" href= "{% static 'core/css/ourservices.css'%}">
+{% endblock %}
+
+{% block content %}
+{% include 'header.html' %}
+<div class="services-container">
+    <h2>Our Services</h2>
+    <p>Some introductory description about our services.</p>
+
+    <!-- Background Video Section -->
+    <section class="video-section">
+        <h3>Watch Our Services in Action</h3>
+        <button id="play-video-button">Play Video</button>
+        <!-- Add your background video element here -->
+        <video controls>
+            <source src="" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </section>
+
+    <!-- Private Party Section -->
+    <section class="private-party-section">
+        <h3>Private Party</h3>
+        <p>Some description about private party services.</p>
+        <!-- Add your image of QR code here -->
+        <div class="qr-code">
+            <img src="" alt="Private Party QR Code">
+        </div>
+    </section>
+
+    <!-- Catering Section -->
+    <section class="catering-section">
+        <h3>Catering</h3>
+        <p>Some description about catering services.</p>
+        <!-- Add your image of QR code here -->
+        <div class="qr-code">
+            <img src="" alt="Catering QR Code">
+        </div>
+    </section>
+
+    <!-- Get in Touch Section -->
+    <section class="get-in-touch-section">
+        <h3>Get in Touch</h3>
+        <p>Have a query or need more information? Get in touch with us!</p>
+        <a href="{% url 'contact_us' %}"><button class="get-in-touch-button">Get in Touch</button></a>
+    </section>
+</div>
+{% include 'footer.html' %}
+{% endblock %}
+

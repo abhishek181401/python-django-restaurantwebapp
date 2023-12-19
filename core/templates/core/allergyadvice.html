@@ -1,0 +1,55 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block title %} Everest Momo | Allergy Advice{% endblock %}
+{% block customcss %}
+<link rel= "stylesheet" href="{% static 'core/css/allergyadvice.css'%}">
+
+{% endblock %}
+
+
+
+{% block content %}
+{% include 'header.html' %}
+
+<div class="allergyadvice-container">
+    <h2>Allergy Advice</h2>
+    <p>Some introductory description about allergy advice.</p>
+
+    <section class="ingredients-section">
+        <h3>Ingredients Used</h3>
+        <div class="ingredient-card">
+            <h4>For the Dough</h4>
+            <ul>
+                <li>120 gm flour</li>
+                <li>1/2 spoon sugar</li>
+                <!-- Add more ingredients as needed -->
+            </ul>
+        </div>
+
+        <div class="ingredient-card">
+            <h4>For the Filling</h4>
+            <ul>
+                <li>200 gm minced meat</li>
+                <li>Spices</li>
+                <!-- Add more ingredients as needed -->
+            </ul>
+        </div>
+        <!-- Add more ingredient cards as needed -->
+    </section>
+
+    <section class="allergy-section">
+        <h3>Allergy Advice</h3>
+        <p>Some description about allergy advice.</p>
+    </section>
+
+    <section class="qr-section">
+        <h3>Scan Me</h3>
+        <div class="qr-code">
+            <!-- Add your QR code image here -->
+            <img src="{% static 'core/images/qr_allergy_advice.png'%}" alt="QR Code">
+        </div>
+    </section>
+</div>
+
+    {% include 'footer.html' %}
+{% endblock %}

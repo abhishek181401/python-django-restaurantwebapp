@@ -1,0 +1,121 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block title %} Everest Momo {% endblock %}
+
+{% block customcss %}
+    <link rel="stylesheet" href= "{% static 'core/css/index.css'%}">
+{% endblock %}
+
+{% block content %}
+<body>
+    {% include 'header.html' %}
+
+
+  
+    <!-- Header Section -->
+    <header class="header">
+        <div class="title-section">
+            <h1>Number 1 Momo Restaurant</h1>
+            <p>20+ varieties of momo available</p>
+            <a href="" class="explore-menu-link">Explore Food Menu</a>
+        </div>
+        <div class="image-section">
+            <!-- Render your momo image here -->
+            <img src="" alt="Momo Image">
+        </div>
+    </header>
+
+    <!-- Scroll Down Section 1 -->
+    <section class="scroll-down-section">
+        <h2>Why Customers Love Us</h2>
+        <p>Small description about why customers love your restaurant.</p>
+        <a href="#explore-story" class="explore-story-link">Explore Our Story</a>
+    </section>
+
+    <!-- Scroll Down Section 2 -->
+    <section class="scroll-down-section">
+        <h2>Our Most Popular Recipe</h2>
+        <p>Little description about your most popular recipe.</p>
+        <div class="recipe-buttons">
+            <div class="recipe-buttons">
+                {% for recipe_type in recipe_types %}
+                <a href="{% url 'index' %}?q={{ recipe_type }}"><button class="veg-button">{{ recipe_type }}</button></a>
+            {% endfor %}
+            </div>
+            
+        </div>
+        <div class="recipe-images">
+            <!-- Render your recipe images here -->
+            {% for recipe in recipes %}
+            <img src="{{recipe.momo_picture.url}}" alt="{{recipe.name}}">
+           
+            {% endfor %}
+        </div>
+        <button class="explore-menu-button">Explore Our Menu</button>
+    </section>
+
+    <!-- Scroll Down Section 3 -->
+    <section class="scroll-down-section">
+        <h2>We Offer the Services They Want</h2>
+        <div class="video-section">
+            <button id="play-video-button">Play Video</button>
+            <!-- Add your background video element here -->
+            <video controls>
+                <source src="" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        
+        </div>
+        
+    </section>
+
+    <!-- Scroll Down Section 4 -->
+    <section class="scroll-down-section">
+        <div class="service-headings">
+            <div class="service-heading">
+                <h3>Quality Food</h3>
+                <p>Small description about quality food service.</p>
+            </div>
+            <div class="service-heading">
+                <h3>Private Party</h3>
+                <p>Small description about private party service.</p>
+            </div>
+            <div class="service-heading">
+                <h3>Catering</h3>
+                <p>Small description about catering service.</p>
+            </div>
+        </div>
+        <a href="{% url 'our_services'%}"> <button class="explore-service-button">Explore Our Services</button></a>
+    </section>
+
+    <!-- Scroll Down Section 5 -->
+    <section class="scroll-down-section">
+        <h2>What Our Customers Have to Say</h2>
+        <p>Small description about customer testimonials.</p>
+        <div class="testimonial-carousel">
+            <!-- Render your testimonials with left and right arrows -->
+            <button class="arrow-button left-arrow">&lt;</button>
+            <!-- Testimonial 1 -->
+            <div class="testimonial">Customer testimonial goes here.</div>
+            <!-- Testimonial 2 -->
+            <div class="testimonial">Another customer testimonial goes here.</div>
+            <!-- Testimonial 3 -->
+            <div class="testimonial">Yet another customer testimonial goes here.</div>
+            <button class="arrow-button right-arrow">&gt;</button>
+        </div>
+    </section>
+
+    <!-- Add more sections as needed -->
+    {% include 'footer.html' %}
+
+    <script src=""></script>
+
+   
+   
+
+  
+
+
+</body>
+
+{% endblock %}

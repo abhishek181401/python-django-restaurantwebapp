@@ -1,0 +1,1658 @@
+2023-12-01 20:50:03,813 INFO Watching for file changes with StatReloader 668 
+2023-12-01 20:50:08,451 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\everestmomo\settings.py changed, reloading. 266 
+2023-12-01 20:50:08,997 INFO Watching for file changes with StatReloader 668 
+2023-12-01 20:50:10,505 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\everestmomo\settings.py changed, reloading. 266 
+2023-12-01 20:50:11,123 INFO Watching for file changes with StatReloader 668 
+2023-12-01 20:50:13,664 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\everestmomo\settings.py changed, reloading. 266 
+2023-12-01 20:50:14,245 INFO Watching for file changes with StatReloader 668 
+2023-12-01 20:50:18,876 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\everestmomo\settings.py changed, reloading. 266 
+2023-12-01 20:50:19,423 INFO Watching for file changes with StatReloader 668 
+2023-12-01 20:50:39,737 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-01 20:50:40,315 INFO Watching for file changes with StatReloader 668 
+2023-12-01 20:50:43,887 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-01 20:50:44,620 INFO Watching for file changes with StatReloader 668 
+2023-12-01 20:50:52,341 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-01 20:50:52,858 INFO Watching for file changes with StatReloader 668 
+2023-12-01 20:50:55,289 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-01 20:50:55,878 INFO Watching for file changes with StatReloader 668 
+2023-12-01 20:50:59,364 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-01 20:50:59,911 INFO Watching for file changes with StatReloader 668 
+2023-12-01 20:51:03,459 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-01 20:51:03,982 INFO Watching for file changes with StatReloader 668 
+2023-12-01 20:51:05,626 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-01 20:51:06,280 INFO Watching for file changes with StatReloader 668 
+2023-12-01 20:51:15,073 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-01 20:51:15,632 INFO Watching for file changes with StatReloader 668 
+2023-12-01 20:51:17,199 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-01 20:51:17,892 INFO Watching for file changes with StatReloader 668 
+2023-12-01 20:51:34,956 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-01 20:51:35,528 INFO Watching for file changes with StatReloader 668 
+2023-12-01 20:51:38,043 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-01 20:51:38,561 INFO Watching for file changes with StatReloader 668 
+2023-12-01 20:51:43,094 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-01 20:51:43,647 INFO Watching for file changes with StatReloader 668 
+2023-12-01 20:51:55,515 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-01 20:51:56,076 INFO Watching for file changes with StatReloader 668 
+2023-12-01 20:52:01,677 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-01 20:52:02,242 INFO Watching for file changes with StatReloader 668 
+2023-12-01 20:52:08,885 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-01 20:52:09,521 INFO Watching for file changes with StatReloader 668 
+2023-12-01 20:52:11,986 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-01 20:52:12,542 INFO Watching for file changes with StatReloader 668 
+2023-12-01 20:52:15,032 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-01 20:52:15,607 INFO Watching for file changes with StatReloader 668 
+2023-12-01 20:52:20,223 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-01 20:52:20,810 INFO Watching for file changes with StatReloader 668 
+2023-12-01 20:52:24,323 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-01 20:52:24,866 INFO Watching for file changes with StatReloader 668 
+2023-12-01 20:52:28,422 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-01 20:52:28,951 INFO Watching for file changes with StatReloader 668 
+2023-12-01 20:52:44,104 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-01 20:52:44,641 INFO Watching for file changes with StatReloader 668 
+2023-12-01 20:52:48,311 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-01 20:52:48,877 INFO Watching for file changes with StatReloader 668 
+2023-12-01 20:52:50,362 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-01 20:52:50,911 INFO Watching for file changes with StatReloader 668 
+2023-12-01 20:53:00,819 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-01 20:53:01,360 INFO Watching for file changes with StatReloader 668 
+2023-12-01 20:53:05,924 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-01 20:53:06,456 INFO Watching for file changes with StatReloader 668 
+2023-12-01 20:53:07,949 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-01 20:53:08,541 INFO Watching for file changes with StatReloader 668 
+2023-12-01 20:53:10,060 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-01 20:53:10,652 INFO Watching for file changes with StatReloader 668 
+2023-12-01 20:53:14,336 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-01 20:53:14,888 INFO Watching for file changes with StatReloader 668 
+2023-12-01 20:53:17,405 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-01 20:53:17,932 INFO Watching for file changes with StatReloader 668 
+2023-12-01 20:53:27,860 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-01 20:53:28,393 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:12:47,250 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:12:50,191 INFO "GET / HTTP/1.1" 200 6103 212 
+2023-12-02 09:12:50,231 INFO "GET /static/css/header.css HTTP/1.1" 304 0 212 
+2023-12-02 09:12:50,241 INFO "GET /static/core/css/index.css HTTP/1.1" 304 0 212 
+2023-12-02 09:12:50,244 INFO "GET /static/core/images/tiktok.png HTTP/1.1" 304 0 212 
+2023-12-02 09:12:50,247 INFO "GET /static/core/images/logo.png HTTP/1.1" 304 0 212 
+2023-12-02 09:12:50,248 INFO "GET /static/css/footer.css HTTP/1.1" 304 0 212 
+2023-12-02 09:12:50,248 INFO "GET /static/core/images/instagram.png HTTP/1.1" 304 0 212 
+2023-12-02 09:12:50,248 INFO "GET /static/core/images/facebook.png HTTP/1.1" 304 0 212 
+2023-12-02 09:12:50,348 WARNING Not Found: /favicon.ico 241 
+2023-12-02 09:12:50,348 WARNING "GET /favicon.ico HTTP/1.1" 404 3165 212 
+2023-12-02 09:13:10,743 INFO "GET /admin HTTP/1.1" 301 0 212 
+2023-12-02 09:13:10,823 INFO "GET /admin/ HTTP/1.1" 200 8699 212 
+2023-12-02 09:13:10,848 INFO "GET /static/admin/css/base.css HTTP/1.1" 304 0 212 
+2023-12-02 09:13:10,868 INFO "GET /static/admin/css/responsive.css HTTP/1.1" 304 0 212 
+2023-12-02 09:13:10,868 INFO "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0 212 
+2023-12-02 09:13:10,869 INFO "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0 212 
+2023-12-02 09:13:10,869 INFO "GET /static/admin/js/theme.js HTTP/1.1" 304 0 212 
+2023-12-02 09:13:10,870 INFO "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0 212 
+2023-12-02 09:13:10,871 INFO "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0 212 
+2023-12-02 09:13:10,882 INFO "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0 212 
+2023-12-02 09:13:10,882 INFO "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0 212 
+2023-12-02 09:13:16,317 INFO "GET /admin/core/teammember/ HTTP/1.1" 200 9691 212 
+2023-12-02 09:13:16,330 INFO "GET /static/admin/css/changelists.css HTTP/1.1" 304 0 212 
+2023-12-02 09:13:16,339 INFO "GET /static/admin/js/core.js HTTP/1.1" 304 0 212 
+2023-12-02 09:13:16,339 INFO "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0 212 
+2023-12-02 09:13:16,339 INFO "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0 212 
+2023-12-02 09:13:16,340 INFO "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0 212 
+2023-12-02 09:13:16,341 INFO "GET /static/admin/js/actions.js HTTP/1.1" 304 0 212 
+2023-12-02 09:13:16,345 INFO "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0 212 
+2023-12-02 09:13:16,349 INFO "GET /static/admin/js/urlify.js HTTP/1.1" 304 0 212 
+2023-12-02 09:13:16,349 INFO "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0 212 
+2023-12-02 09:13:16,349 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-02 09:13:16,349 INFO "GET /static/admin/js/filters.js HTTP/1.1" 304 0 212 
+2023-12-02 09:13:16,376 INFO "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0 212 
+2023-12-02 09:13:18,989 INFO "GET /admin/core/recipe/ HTTP/1.1" 200 10122 212 
+2023-12-02 09:13:19,010 INFO "GET /static/admin/img/search.svg HTTP/1.1" 304 0 212 
+2023-12-02 09:13:19,013 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-02 09:13:24,959 INFO "GET /admin/core/owner/ HTTP/1.1" 200 9692 212 
+2023-12-02 09:13:24,980 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-02 09:13:27,903 INFO "GET /admin/core/contactnumber/ HTTP/1.1" 200 9551 212 
+2023-12-02 09:13:27,923 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-02 09:13:29,849 INFO "GET /admin/auth/user/ HTTP/1.1" 200 11841 212 
+2023-12-02 09:13:29,869 INFO "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0 212 
+2023-12-02 09:13:29,869 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-02 09:13:29,888 INFO "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0 212 
+2023-12-02 09:13:31,744 INFO "GET /admin/auth/group/ HTTP/1.1" 200 8653 212 
+2023-12-02 09:13:31,763 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-02 09:13:33,557 INFO "GET /admin/core/owner/ HTTP/1.1" 200 9692 212 
+2023-12-02 09:13:33,571 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-02 09:13:38,780 INFO "GET /contact-us/ HTTP/1.1" 200 5889 212 
+2023-12-02 09:13:38,801 INFO "GET /static/core/css/contactus.css HTTP/1.1" 304 0 212 
+2023-12-02 09:13:38,802 INFO "GET /static/core/css/form.css HTTP/1.1" 304 0 212 
+2023-12-02 09:14:02,899 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:14:03,628 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:14:26,397 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:14:27,062 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:14:29,739 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:14:30,349 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:14:32,869 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:14:33,479 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:14:45,478 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:14:46,069 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:15:02,121 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:15:02,664 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:15:09,328 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:15:09,889 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:15:27,135 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:15:27,689 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:15:30,240 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:15:30,828 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:15:33,383 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:15:33,989 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:15:36,510 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:15:37,114 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:15:42,740 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:15:43,303 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:15:47,860 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:15:48,420 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:15:53,013 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:15:53,560 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:15:58,195 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:15:59,076 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:16:18,450 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:16:19,018 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:16:20,535 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:16:21,088 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:16:22,595 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:16:23,180 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:16:24,733 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:16:25,283 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:16:26,814 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:16:27,370 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:16:31,014 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:16:31,545 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:16:33,136 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:16:33,680 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:16:38,355 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:16:38,891 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:16:41,468 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:16:42,040 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:16:43,604 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:16:44,160 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:16:49,941 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:16:50,536 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:19:46,393 INFO "GET /contact-us/ HTTP/1.1" 200 5873 212 
+2023-12-02 09:20:20,309 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:20:20,947 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:20:26,522 INFO "GET /contact-us/ HTTP/1.1" 200 5873 212 
+2023-12-02 09:20:31,250 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:20:31,821 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:21:37,964 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:21:38,631 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:21:41,263 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:21:42,006 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:21:44,624 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:21:45,190 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:21:57,214 INFO "GET /contact-us/ HTTP/1.1" 200 5873 212 
+2023-12-02 09:22:06,906 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:22:07,524 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:22:09,104 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:22:09,735 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:22:14,804 ERROR Internal Server Error: /contact-us/ 241 
+Traceback (most recent call last):
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py", line 19, in contact_us
+    print(owner.location)
+AttributeError: 'QuerySet' object has no attribute 'location'
+2023-12-02 09:22:14,804 ERROR "GET /contact-us/ HTTP/1.1" 500 67745 212 
+2023-12-02 09:22:21,994 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:22:22,567 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:22:24,122 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:22:24,767 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:22:27,344 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:22:27,892 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:22:36,538 INFO "GET /contact-us/ HTTP/1.1" 200 5873 212 
+2023-12-02 09:22:41,897 INFO "GET /admin/core/contactnumber/ HTTP/1.1" 200 9551 212 
+2023-12-02 09:22:41,916 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-02 09:23:06,563 INFO "GET /allergy-advice/ HTTP/1.1" 200 3659 212 
+2023-12-02 09:23:06,582 INFO "GET /static/core/css/allergyadvice.css HTTP/1.1" 304 0 212 
+2023-12-02 09:23:10,197 INFO "GET /contact-us/ HTTP/1.1" 200 5873 212 
+2023-12-02 09:28:21,924 INFO "GET /contact-us/ HTTP/1.1" 200 5873 212 
+2023-12-02 09:28:22,964 INFO "GET /contact-us/ HTTP/1.1" 200 5873 212 
+2023-12-02 09:28:23,322 INFO "GET /contact-us/ HTTP/1.1" 200 5873 212 
+2023-12-02 09:28:23,670 INFO "GET /contact-us/ HTTP/1.1" 200 5873 212 
+2023-12-02 09:28:25,278 INFO "GET /about-us/ HTTP/1.1" 200 4104 212 
+2023-12-02 09:28:25,301 INFO "GET /static/core/css/aboutus.css HTTP/1.1" 304 0 212 
+2023-12-02 09:28:26,427 INFO "GET /our-services/ HTTP/1.1" 200 3939 212 
+2023-12-02 09:28:26,443 INFO "GET /static/core/css/ourservices.css HTTP/1.1" 304 0 212 
+2023-12-02 09:28:27,580 INFO "GET /our-menu/ HTTP/1.1" 200 4188 212 
+2023-12-02 09:28:27,600 INFO "GET /static/core/css/ourmenu.css HTTP/1.1" 304 0 212 
+2023-12-02 09:28:28,840 INFO "GET /allergy-advice/ HTTP/1.1" 200 3659 212 
+2023-12-02 09:28:30,754 INFO "GET /our-menu/ HTTP/1.1" 200 4188 212 
+2023-12-02 09:28:34,818 INFO "GET /contact-us/ HTTP/1.1" 200 5873 212 
+2023-12-02 09:29:00,390 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:29:01,017 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:29:03,592 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:29:04,106 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:29:08,733 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:29:09,282 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:29:13,864 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:29:14,456 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:29:17,062 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:29:17,624 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:29:21,328 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:29:22,169 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:29:23,697 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:29:24,497 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:40:29,193 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:40:29,914 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:40:35,628 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:40:36,229 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:41:18,693 INFO "GET /contact-us/ HTTP/1.1" 200 5857 212 
+2023-12-02 09:54:47,021 INFO "GET /contact-us/ HTTP/1.1" 200 5896 212 
+2023-12-02 09:55:06,841 INFO "GET /contact-us/ HTTP/1.1" 200 5896 212 
+2023-12-02 09:55:23,419 INFO "GET /contact-us/ HTTP/1.1" 200 5914 212 
+2023-12-02 09:57:20,643 INFO "GET /contact-us/ HTTP/1.1" 200 5938 212 
+2023-12-02 09:58:38,005 INFO "GET /contact-us/ HTTP/1.1" 200 5951 212 
+2023-12-02 09:58:46,439 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:58:47,236 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:58:49,897 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 09:58:50,624 INFO Watching for file changes with StatReloader 668 
+2023-12-02 09:58:54,084 INFO "GET /contact-us/ HTTP/1.1" 200 5999 212 
+2023-12-02 10:01:56,246 INFO "GET /contact-us/ HTTP/1.1" 200 5934 212 
+2023-12-02 10:02:15,580 INFO "GET /contact-us/ HTTP/1.1" 200 6029 212 
+2023-12-02 10:02:37,707 INFO "GET /admin/core/contactnumber/add/ HTTP/1.1" 200 10742 212 
+2023-12-02 10:02:37,745 INFO "GET /static/admin/css/forms.css HTTP/1.1" 304 0 212 
+2023-12-02 10:02:37,747 INFO "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0 212 
+2023-12-02 10:02:37,748 INFO "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0 212 
+2023-12-02 10:02:37,754 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-02 10:02:37,756 INFO "GET /static/admin/css/widgets.css HTTP/1.1" 304 0 212 
+2023-12-02 10:02:37,761 INFO "GET /static/admin/js/change_form.js HTTP/1.1" 304 0 212 
+2023-12-02 10:02:47,407 INFO "POST /admin/core/contactnumber/add/ HTTP/1.1" 302 0 212 
+2023-12-02 10:02:47,455 INFO "GET /admin/core/contactnumber/ HTTP/1.1" 200 9981 212 
+2023-12-02 10:02:47,481 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-02 10:02:51,471 INFO "GET /contact-us/ HTTP/1.1" 200 6127 212 
+2023-12-02 10:03:27,552 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\models.py changed, reloading. 266 
+2023-12-02 10:03:28,197 INFO Watching for file changes with StatReloader 668 
+2023-12-02 10:03:30,609 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\models.py changed, reloading. 266 
+2023-12-02 10:03:31,230 INFO Watching for file changes with StatReloader 668 
+2023-12-02 10:03:32,660 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\models.py changed, reloading. 266 
+2023-12-02 10:03:33,346 INFO Watching for file changes with StatReloader 668 
+2023-12-02 10:03:35,801 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\models.py changed, reloading. 266 
+2023-12-02 10:03:36,437 INFO Watching for file changes with StatReloader 668 
+2023-12-02 10:03:38,848 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\models.py changed, reloading. 266 
+2023-12-02 10:03:39,455 INFO Watching for file changes with StatReloader 668 
+2023-12-02 10:03:48,076 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\models.py changed, reloading. 266 
+2023-12-02 10:03:48,771 INFO Watching for file changes with StatReloader 668 
+2023-12-02 10:03:50,199 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\models.py changed, reloading. 266 
+2023-12-02 10:03:50,991 INFO Watching for file changes with StatReloader 668 
+2023-12-02 10:05:04,886 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\models.py changed, reloading. 266 
+2023-12-02 10:05:05,596 INFO Watching for file changes with StatReloader 668 
+2023-12-02 10:05:06,945 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\models.py changed, reloading. 266 
+2023-12-02 10:05:07,473 INFO Watching for file changes with StatReloader 668 
+2023-12-02 10:05:10,978 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\models.py changed, reloading. 266 
+2023-12-02 10:05:11,683 INFO Watching for file changes with StatReloader 668 
+2023-12-02 11:29:02,366 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\models.py changed, reloading. 266 
+2023-12-02 11:29:03,488 INFO Watching for file changes with StatReloader 668 
+2023-12-02 11:29:15,518 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\models.py changed, reloading. 266 
+2023-12-02 11:29:16,485 INFO Watching for file changes with StatReloader 668 
+2023-12-02 11:29:29,641 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\models.py changed, reloading. 266 
+2023-12-02 11:29:30,732 INFO Watching for file changes with StatReloader 668 
+2023-12-02 11:29:33,003 INFO "GET /about-us/ HTTP/1.1" 200 4104 212 
+2023-12-02 11:29:34,385 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\models.py changed, reloading. 266 
+2023-12-02 11:29:35,698 INFO Watching for file changes with StatReloader 668 
+2023-12-02 11:33:18,375 INFO "GET /about-us/ HTTP/1.1" 200 4104 212 
+2023-12-02 12:19:00,658 INFO "GET / HTTP/1.1" 200 6103 212 
+2023-12-02 12:19:00,695 INFO "GET /static/core/images/logo.png HTTP/1.1" 304 0 212 
+2023-12-02 12:19:05,641 INFO "GET / HTTP/1.1" 200 6103 212 
+2023-12-02 15:14:51,179 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:14:52,368 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:14:56,469 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:14:57,404 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:15:03,708 INFO "GET /admin/core/contactnumber/ HTTP/1.1" 200 9766 212 
+2023-12-02 15:15:03,769 INFO "GET /static/admin/css/base.css HTTP/1.1" 304 0 212 
+2023-12-02 15:15:03,777 INFO "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0 212 
+2023-12-02 15:15:03,785 INFO "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0 212 
+2023-12-02 15:15:03,793 INFO "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0 212 
+2023-12-02 15:15:03,793 INFO "GET /static/admin/css/changelists.css HTTP/1.1" 304 0 212 
+2023-12-02 15:15:03,801 INFO "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0 212 
+2023-12-02 15:15:03,801 INFO "GET /static/admin/js/core.js HTTP/1.1" 304 0 212 
+2023-12-02 15:15:03,806 INFO "GET /static/admin/css/responsive.css HTTP/1.1" 304 0 212 
+2023-12-02 15:15:03,812 INFO "GET /static/admin/js/actions.js HTTP/1.1" 304 0 212 
+2023-12-02 15:15:03,813 INFO "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0 212 
+2023-12-02 15:15:03,813 INFO "GET /static/admin/js/urlify.js HTTP/1.1" 304 0 212 
+2023-12-02 15:15:03,813 INFO "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0 212 
+2023-12-02 15:15:03,816 INFO "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0 212 
+2023-12-02 15:15:03,816 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-02 15:15:03,827 INFO "GET /static/admin/js/theme.js HTTP/1.1" 304 0 212 
+2023-12-02 15:15:03,847 INFO "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0 212 
+2023-12-02 15:15:03,865 INFO "GET /static/admin/js/filters.js HTTP/1.1" 304 0 212 
+2023-12-02 15:15:03,898 INFO "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0 212 
+2023-12-02 15:15:03,898 INFO "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0 212 
+2023-12-02 15:15:08,452 INFO "GET /admin/core/owner/ HTTP/1.1" 200 9692 212 
+2023-12-02 15:15:08,487 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-02 15:15:11,603 INFO "GET /admin/core/owner/add/ HTTP/1.1" 200 9762 212 
+2023-12-02 15:15:11,646 INFO "GET /static/admin/css/forms.css HTTP/1.1" 304 0 212 
+2023-12-02 15:15:11,651 INFO "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0 212 
+2023-12-02 15:15:11,654 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-02 15:15:11,654 INFO "GET /static/admin/css/widgets.css HTTP/1.1" 304 0 212 
+2023-12-02 15:15:11,671 INFO "GET /static/admin/js/change_form.js HTTP/1.1" 304 0 212 
+2023-12-02 15:15:19,670 INFO "POST /admin/core/owner/add/ HTTP/1.1" 302 0 212 
+2023-12-02 15:15:19,720 INFO "GET /admin/core/owner/ HTTP/1.1" 200 10131 212 
+2023-12-02 15:15:19,775 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-02 15:15:19,803 INFO "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0 212 
+2023-12-02 15:15:26,453 ERROR 'Owner' object is not iterable 45 
+Traceback (most recent call last):
+  File "C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py", line 42, in contact_us
+    return render(request,"core/contact_us.html",context)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\defaulttags.py", line 193, in render
+    values = list(values)
+TypeError: 'Owner' object is not iterable
+2023-12-02 15:15:26,469 INFO "GET /contact-us/ HTTP/1.1" 200 5886 212 
+2023-12-02 15:15:26,537 INFO "GET /static/core/css/contactus.css HTTP/1.1" 304 0 212 
+2023-12-02 15:15:26,542 INFO "GET /static/css/header.css HTTP/1.1" 304 0 212 
+2023-12-02 15:15:26,542 INFO "GET /static/core/images/facebook.png HTTP/1.1" 304 0 212 
+2023-12-02 15:15:26,545 INFO "GET /static/core/images/logo.png HTTP/1.1" 304 0 212 
+2023-12-02 15:15:26,545 INFO "GET /static/core/css/form.css HTTP/1.1" 304 0 212 
+2023-12-02 15:15:26,546 INFO "GET /static/core/images/instagram.png HTTP/1.1" 304 0 212 
+2023-12-02 15:15:26,550 INFO "GET /static/core/images/tiktok.png HTTP/1.1" 304 0 212 
+2023-12-02 15:15:26,550 INFO "GET /static/css/footer.css HTTP/1.1" 304 0 212 
+2023-12-02 15:16:15,711 ERROR 'Owner' object is not iterable 45 
+Traceback (most recent call last):
+  File "C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py", line 42, in contact_us
+    return render(request,"core/contact_us.html",context)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\defaulttags.py", line 193, in render
+    values = list(values)
+TypeError: 'Owner' object is not iterable
+2023-12-02 15:16:15,717 INFO "GET /contact-us/ HTTP/1.1" 200 5899 212 
+2023-12-02 15:16:29,585 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:16:30,513 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:16:35,640 INFO "GET /contact-us/ HTTP/1.1" 200 6173 212 
+2023-12-02 15:18:42,608 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:18:43,650 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:18:50,944 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:18:51,890 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:18:58,099 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:18:59,226 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:19:02,327 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:19:03,409 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:19:08,332 ERROR 'Owner' object is not iterable 46 
+Traceback (most recent call last):
+  File "C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py", line 43, in contact_us
+    return render(request,"core/contact_us.html",context)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\myenv\lib\site-packages\django\template\defaulttags.py", line 193, in render
+    values = list(values)
+TypeError: 'Owner' object is not iterable
+2023-12-02 15:19:08,333 INFO "GET /contact-us/ HTTP/1.1" 200 5898 212 
+2023-12-02 15:19:25,141 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:19:26,054 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:19:28,243 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:19:29,375 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:19:31,429 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:19:32,608 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:19:35,450 INFO "GET /contact-us/ HTTP/1.1" 200 6173 212 
+2023-12-02 15:19:53,093 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:19:54,095 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:20:18,123 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:20:19,042 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:20:35,661 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:20:36,940 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:20:44,222 INFO "GET /admin/core/owner/ HTTP/1.1" 200 9938 212 
+2023-12-02 15:20:44,256 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-02 15:20:53,804 INFO "POST /admin/core/owner/ HTTP/1.1" 200 8366 212 
+2023-12-02 15:20:53,964 INFO "GET /static/admin/js/cancel.js HTTP/1.1" 200 884 212 
+2023-12-02 15:20:55,235 INFO "POST /admin/core/owner/ HTTP/1.1" 302 0 212 
+2023-12-02 15:20:55,273 INFO "GET /admin/core/owner/ HTTP/1.1" 200 9827 212 
+2023-12-02 15:20:55,327 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-02 15:20:56,814 INFO "GET /admin/core/owner/1/change/ HTTP/1.1" 200 10030 212 
+2023-12-02 15:20:56,854 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-02 15:21:00,557 INFO "GET /admin/core/contactnumber/ HTTP/1.1" 200 9766 212 
+2023-12-02 15:21:00,590 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-02 15:21:03,583 INFO "GET /admin/core/owner/ HTTP/1.1" 200 9692 212 
+2023-12-02 15:21:03,621 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-02 15:21:04,873 INFO "GET /admin/core/recipe/ HTTP/1.1" 200 10122 212 
+2023-12-02 15:21:04,907 INFO "GET /static/admin/img/search.svg HTTP/1.1" 304 0 212 
+2023-12-02 15:21:04,921 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-02 15:21:07,157 INFO "GET /admin/core/teammember/ HTTP/1.1" 200 9691 212 
+2023-12-02 15:21:07,198 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-02 15:21:09,706 INFO "GET /admin/core/contactnumber/ HTTP/1.1" 200 9766 212 
+2023-12-02 15:21:09,744 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-02 15:21:44,788 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\models.py changed, reloading. 266 
+2023-12-02 15:21:45,801 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:21:47,702 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\models.py changed, reloading. 266 
+2023-12-02 15:21:48,920 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:21:53,249 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\models.py changed, reloading. 266 
+2023-12-02 15:21:54,245 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:21:55,873 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\models.py changed, reloading. 266 
+2023-12-02 15:21:57,121 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:22:29,395 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\models.py changed, reloading. 266 
+2023-12-02 15:22:30,600 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:22:36,116 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\models.py changed, reloading. 266 
+2023-12-02 15:22:37,194 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:22:39,133 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\models.py changed, reloading. 266 
+2023-12-02 15:22:40,352 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:22:44,655 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\models.py changed, reloading. 266 
+2023-12-02 15:22:45,779 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:23:11,649 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\models.py changed, reloading. 266 
+2023-12-02 15:23:12,720 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:23:27,570 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\models.py changed, reloading. 266 
+2023-12-02 15:23:28,704 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:23:31,433 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\models.py changed, reloading. 266 
+2023-12-02 15:23:32,650 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:23:36,645 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\models.py changed, reloading. 266 
+2023-12-02 15:23:37,604 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:23:39,415 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\models.py changed, reloading. 266 
+2023-12-02 15:23:40,323 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:23:44,417 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\models.py changed, reloading. 266 
+2023-12-02 15:23:45,481 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:24:36,098 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\models.py changed, reloading. 266 
+2023-12-02 15:24:37,479 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:24:42,628 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\models.py changed, reloading. 266 
+2023-12-02 15:24:44,004 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:29:43,604 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:29:44,849 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:29:47,838 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:29:48,935 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:30:35,637 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:31:00,289 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\admin.py changed, reloading. 266 
+2023-12-02 15:31:01,315 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:31:04,981 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\admin.py changed, reloading. 266 
+2023-12-02 15:31:05,990 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:31:10,298 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\admin.py changed, reloading. 266 
+2023-12-02 15:31:11,544 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:33:25,549 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:33:31,253 INFO "GET /admin/core/contactnumber/ HTTP/1.1" 200 10065 212 
+2023-12-02 15:33:31,301 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-02 15:33:46,627 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\models.py changed, reloading. 266 
+2023-12-02 15:33:47,648 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:33:57,766 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\models.py changed, reloading. 266 
+2023-12-02 15:33:58,756 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:34:02,771 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\models.py changed, reloading. 266 
+2023-12-02 15:34:03,962 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:34:07,004 INFO "GET /admin/core/contactnumber/ HTTP/1.1" 200 10065 212 
+2023-12-02 15:34:07,069 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-02 15:34:12,823 INFO "GET /admin/core/userquery/ HTTP/1.1" 200 8646 212 
+2023-12-02 15:34:12,857 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-02 15:34:34,470 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:34:35,451 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:34:39,572 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:34:40,614 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:34:44,579 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:34:45,759 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:34:56,005 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:34:56,988 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:34:59,090 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:35:00,281 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:35:05,296 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:35:06,492 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:35:27,475 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:35:28,574 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:35:31,277 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:35:32,238 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:35:33,988 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:35:35,110 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:35:36,988 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:35:38,037 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:35:41,981 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:35:42,987 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:35:44,846 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:35:45,961 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:35:49,898 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:35:50,834 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:35:55,808 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:35:56,843 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:36:02,086 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:36:03,336 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:36:06,376 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:36:07,336 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:36:10,494 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:36:11,580 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:36:15,516 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:36:16,330 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:36:34,408 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:36:35,432 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:36:42,704 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:36:43,826 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:36:49,474 INFO "GET /contact-us/ HTTP/1.1" 200 6139 212 
+2023-12-02 15:37:06,031 INFO "POST /contact-us/ HTTP/1.1" 302 0 212 
+2023-12-02 15:37:06,042 INFO "GET /contact-us/ HTTP/1.1" 200 6139 212 
+2023-12-02 15:37:17,319 INFO "GET /admin/core/userquery/ HTTP/1.1" 200 10558 212 
+2023-12-02 15:37:17,364 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-02 15:38:06,587 INFO "GET /contact-us/ HTTP/1.1" 200 6145 212 
+2023-12-02 15:38:23,655 INFO "POST /contact-us/ HTTP/1.1" 302 0 212 
+2023-12-02 15:38:23,679 INFO "GET /contact-us/ HTTP/1.1" 200 6145 212 
+2023-12-02 15:38:30,864 INFO "GET /admin/core/userquery/ HTTP/1.1" 200 10937 212 
+2023-12-02 15:38:30,904 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-02 15:38:53,746 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:38:54,861 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:38:58,101 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:38:59,104 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:39:07,525 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:39:08,637 INFO Watching for file changes with StatReloader 668 
+2023-12-02 15:39:10,513 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-02 15:39:11,470 INFO Watching for file changes with StatReloader 668 
+2023-12-03 20:56:05,761 INFO Watching for file changes with StatReloader 668 
+2023-12-05 07:44:41,861 INFO Watching for file changes with StatReloader 668 
+2023-12-05 07:44:45,313 INFO "GET / HTTP/1.1" 200 6103 212 
+2023-12-05 07:44:45,416 INFO "GET /static/core/css/index.css HTTP/1.1" 304 0 212 
+2023-12-05 07:44:45,416 INFO "GET /static/css/header.css HTTP/1.1" 304 0 212 
+2023-12-05 07:44:45,423 INFO "GET /static/css/footer.css HTTP/1.1" 304 0 212 
+2023-12-05 07:44:45,434 INFO "GET /static/core/images/instagram.png HTTP/1.1" 304 0 212 
+2023-12-05 07:44:45,436 INFO "GET /static/core/images/tiktok.png HTTP/1.1" 304 0 212 
+2023-12-05 07:44:45,438 INFO "GET /static/core/images/facebook.png HTTP/1.1" 304 0 212 
+2023-12-05 07:44:45,440 INFO "GET /static/core/images/logo.png HTTP/1.1" 304 0 212 
+2023-12-05 07:44:45,572 WARNING Not Found: /favicon.ico 241 
+2023-12-05 07:44:45,573 WARNING "GET /favicon.ico HTTP/1.1" 404 3165 212 
+2023-12-05 07:48:35,646 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 07:48:36,322 INFO Watching for file changes with StatReloader 668 
+2023-12-05 07:48:39,110 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 07:48:39,677 INFO Watching for file changes with StatReloader 668 
+2023-12-05 07:48:40,955 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 07:48:41,522 INFO Watching for file changes with StatReloader 668 
+2023-12-05 07:48:44,069 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 07:48:44,689 INFO Watching for file changes with StatReloader 668 
+2023-12-05 07:48:51,585 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 07:48:52,287 INFO Watching for file changes with StatReloader 668 
+2023-12-05 07:48:53,944 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 07:48:54,572 INFO Watching for file changes with StatReloader 668 
+2023-12-05 07:48:56,288 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 07:48:56,878 INFO Watching for file changes with StatReloader 668 
+2023-12-05 07:49:00,224 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 07:49:00,890 INFO Watching for file changes with StatReloader 668 
+2023-12-05 07:49:06,666 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 07:49:07,312 INFO Watching for file changes with StatReloader 668 
+2023-12-05 07:49:09,014 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 07:49:09,704 INFO Watching for file changes with StatReloader 668 
+2023-12-05 07:49:12,356 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 07:49:13,122 INFO Watching for file changes with StatReloader 668 
+2023-12-05 07:49:26,291 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 07:49:26,868 INFO Watching for file changes with StatReloader 668 
+2023-12-05 07:49:32,713 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 07:49:33,215 INFO Watching for file changes with StatReloader 668 
+2023-12-05 07:54:29,022 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 07:54:29,715 INFO Watching for file changes with StatReloader 668 
+2023-12-05 07:54:38,490 INFO "GET / HTTP/1.1" 200 6169 212 
+2023-12-05 07:58:49,645 ERROR Internal Server Error: / 241 
+Traceback (most recent call last):
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py", line 20, in index
+    return render(request,'core/index.html',context)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '' not found. '' is not a valid view function or pattern name.
+2023-12-05 07:58:49,645 ERROR "GET / HTTP/1.1" 500 173699 212 
+2023-12-05 07:59:04,663 INFO "GET / HTTP/1.1" 200 6276 212 
+2023-12-05 07:59:19,235 INFO "GET / HTTP/1.1" 200 6123 212 
+2023-12-05 07:59:53,646 INFO "GET / HTTP/1.1" 200 6136 212 
+2023-12-05 07:59:54,823 INFO "GET / HTTP/1.1" 200 6136 212 
+2023-12-05 07:59:54,990 INFO "GET / HTTP/1.1" 200 6136 212 
+2023-12-05 07:59:55,172 INFO "GET / HTTP/1.1" 200 6136 212 
+2023-12-05 07:59:55,341 INFO "GET / HTTP/1.1" 200 6136 212 
+2023-12-05 07:59:55,522 INFO "GET / HTTP/1.1" 200 6136 212 
+2023-12-05 07:59:55,668 INFO "GET / HTTP/1.1" 200 6136 212 
+2023-12-05 08:00:58,061 INFO "GET / HTTP/1.1" 200 6136 212 
+2023-12-05 08:01:58,207 INFO "GET / HTTP/1.1" 200 6204 212 
+2023-12-05 08:02:43,044 INFO "GET /admin/ HTTP/1.1" 302 0 212 
+2023-12-05 08:02:43,081 INFO "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4178 212 
+2023-12-05 08:02:43,127 INFO "GET /static/admin/css/base.css HTTP/1.1" 304 0 212 
+2023-12-05 08:02:43,127 INFO "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0 212 
+2023-12-05 08:02:43,128 INFO "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0 212 
+2023-12-05 08:02:43,135 INFO "GET /static/admin/css/responsive.css HTTP/1.1" 304 0 212 
+2023-12-05 08:02:43,137 INFO "GET /static/admin/js/theme.js HTTP/1.1" 304 0 212 
+2023-12-05 08:02:43,141 INFO "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0 212 
+2023-12-05 08:02:43,193 INFO "GET /static/admin/css/login.css HTTP/1.1" 200 958 212 
+2023-12-05 08:02:50,544 INFO "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0 212 
+2023-12-05 08:02:50,581 INFO "GET /admin/ HTTP/1.1" 200 9949 212 
+2023-12-05 08:02:50,595 INFO "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0 212 
+2023-12-05 08:02:50,603 INFO "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0 212 
+2023-12-05 08:02:50,604 INFO "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0 212 
+2023-12-05 08:02:50,605 INFO "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392 212 
+2023-12-05 08:02:54,948 INFO "GET /admin/core/recipe/ HTTP/1.1" 200 10421 212 
+2023-12-05 08:02:54,963 INFO "GET /static/admin/css/changelists.css HTTP/1.1" 304 0 212 
+2023-12-05 08:02:54,967 INFO "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0 212 
+2023-12-05 08:02:54,975 INFO "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0 212 
+2023-12-05 08:02:54,975 INFO "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0 212 
+2023-12-05 08:02:54,975 INFO "GET /static/admin/js/core.js HTTP/1.1" 304 0 212 
+2023-12-05 08:02:54,984 INFO "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0 212 
+2023-12-05 08:02:54,984 INFO "GET /static/admin/js/urlify.js HTTP/1.1" 304 0 212 
+2023-12-05 08:02:54,984 INFO "GET /static/admin/js/actions.js HTTP/1.1" 304 0 212 
+2023-12-05 08:02:54,990 INFO "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0 212 
+2023-12-05 08:02:54,990 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 08:02:54,991 INFO "GET /static/admin/img/search.svg HTTP/1.1" 304 0 212 
+2023-12-05 08:02:54,995 INFO "GET /static/admin/js/filters.js HTTP/1.1" 304 0 212 
+2023-12-05 08:02:55,022 INFO "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0 212 
+2023-12-05 08:02:57,716 INFO "GET /admin/core/recipe/add/ HTTP/1.1" 200 12564 212 
+2023-12-05 08:02:57,732 INFO "GET /static/admin/css/forms.css HTTP/1.1" 304 0 212 
+2023-12-05 08:02:57,732 INFO "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0 212 
+2023-12-05 08:02:57,732 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 08:02:57,740 INFO "GET /static/admin/css/widgets.css HTTP/1.1" 304 0 212 
+2023-12-05 08:02:57,744 INFO "GET /static/admin/js/change_form.js HTTP/1.1" 304 0 212 
+2023-12-05 08:03:46,541 INFO "POST /admin/core/recipe/add/ HTTP/1.1" 302 0 212 
+2023-12-05 08:03:46,573 INFO "GET /admin/core/recipe/ HTTP/1.1" 200 10903 212 
+2023-12-05 08:03:46,605 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 08:03:46,623 INFO "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0 212 
+2023-12-05 08:03:48,972 INFO "GET /admin/core/recipe/add/ HTTP/1.1" 200 12564 212 
+2023-12-05 08:03:48,992 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 08:05:46,869 INFO "POST /admin/core/recipe/add/ HTTP/1.1" 302 0 212 
+2023-12-05 08:05:46,886 INFO "GET /admin/core/recipe/ HTTP/1.1" 200 11179 212 
+2023-12-05 08:05:46,922 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 08:05:48,585 INFO "GET /admin/core/recipe/2/change/ HTTP/1.1" 200 13187 212 
+2023-12-05 08:05:48,608 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 08:05:56,902 INFO "POST /admin/core/recipe/2/change/ HTTP/1.1" 302 0 212 
+2023-12-05 08:05:56,918 INFO "GET /admin/core/recipe/ HTTP/1.1" 200 11181 212 
+2023-12-05 08:05:56,955 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 08:05:59,635 INFO "GET /admin/core/recipe/2/change/ HTTP/1.1" 200 13187 212 
+2023-12-05 08:05:59,658 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 08:06:01,824 WARNING Not Found: /media/recipe_pics/Screenshot_2023-12-05_080439.png 241 
+2023-12-05 08:06:01,825 WARNING "GET /media/recipe_pics/Screenshot_2023-12-05_080439.png HTTP/1.1" 404 3282 212 
+2023-12-05 08:08:13,222 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\everestmomo\urls.py changed, reloading. 266 
+2023-12-05 08:08:13,761 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:08:52,764 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\everestmomo\urls.py changed, reloading. 266 
+2023-12-05 08:08:53,433 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:09:06,640 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\everestmomo\urls.py changed, reloading. 266 
+2023-12-05 08:09:07,180 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:09:12,527 INFO "GET / HTTP/1.1" 200 6744 212 
+2023-12-05 08:09:17,493 INFO "GET /admin/core/recipe/2/change/ HTTP/1.1" 200 13187 212 
+2023-12-05 08:09:18,694 INFO "GET /admin/core/recipe/2/change/ HTTP/1.1" 200 13187 212 
+2023-12-05 08:09:18,712 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 08:09:20,321 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080439.png HTTP/1.1" 200 280121 212 
+2023-12-05 08:09:24,945 INFO "GET /admin/core/recipe/2/change/ HTTP/1.1" 200 13187 212 
+2023-12-05 08:09:41,795 INFO "GET /admin/core/recipe/2/change/ HTTP/1.1" 200 13187 212 
+2023-12-05 08:09:43,327 INFO "POST /admin/core/recipe/2/change/ HTTP/1.1" 302 0 212 
+2023-12-05 08:09:43,376 INFO "GET /admin/core/recipe/ HTTP/1.1" 200 11181 212 
+2023-12-05 08:09:43,400 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 08:09:44,974 INFO "GET /admin/core/recipe/1/change/ HTTP/1.1" 200 13169 212 
+2023-12-05 08:09:44,993 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 08:09:47,819 INFO "GET /media/recipe_pics/Screenshot_2023-12-01_152454.png HTTP/1.1" 200 234188 212 
+2023-12-05 08:09:49,510 INFO "GET /admin/core/recipe/1/change/ HTTP/1.1" 200 13169 212 
+2023-12-05 08:09:58,075 INFO "POST /admin/core/recipe/1/change/ HTTP/1.1" 302 0 212 
+2023-12-05 08:09:58,109 INFO "GET /admin/core/recipe/ HTTP/1.1" 200 11181 212 
+2023-12-05 08:09:58,141 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 08:10:13,890 INFO "GET / HTTP/1.1" 200 6744 212 
+2023-12-05 08:10:26,784 INFO "GET / HTTP/1.1" 200 6744 212 
+2023-12-05 08:10:47,481 INFO "GET / HTTP/1.1" 200 6947 212 
+2023-12-05 08:11:30,663 INFO "GET / HTTP/1.1" 200 6408 212 
+2023-12-05 08:13:05,242 INFO "GET / HTTP/1.1" 200 6420 212 
+2023-12-05 08:13:13,560 INFO "GET /about-us/ HTTP/1.1" 200 4104 212 
+2023-12-05 08:13:13,576 INFO "GET /static/core/css/aboutus.css HTTP/1.1" 304 0 212 
+2023-12-05 08:13:19,269 INFO "GET / HTTP/1.1" 200 6420 212 
+2023-12-05 08:16:43,250 INFO "GET / HTTP/1.1" 200 6573 212 
+2023-12-05 08:16:43,269 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080439.png HTTP/1.1" 304 0 212 
+2023-12-05 08:16:43,274 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080454.png HTTP/1.1" 200 376492 212 
+2023-12-05 08:16:43,275 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080423.png HTTP/1.1" 200 380698 212 
+2023-12-05 08:18:29,533 ERROR Internal Server Error: / 241 
+Traceback (most recent call last):
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py", line 20, in index
+    return render(request,'core/index.html',context)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'home' not found. 'home' is not a valid view function or pattern name.
+2023-12-05 08:18:29,533 ERROR "GET / HTTP/1.1" 500 176027 212 
+2023-12-05 08:18:52,133 ERROR Internal Server Error: / 241 
+Traceback (most recent call last):
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py", line 20, in index
+    return render(request,'core/index.html',context)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\defaulttags.py", line 238, in render
+    nodelist.append(node.render_annotated(context))
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'home' not found. 'home' is not a valid view function or pattern name.
+2023-12-05 08:18:52,133 ERROR "GET / HTTP/1.1" 500 176027 212 
+2023-12-05 08:20:10,381 INFO "GET / HTTP/1.1" 200 6623 212 
+2023-12-05 08:20:10,402 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080439.png HTTP/1.1" 304 0 212 
+2023-12-05 08:20:10,403 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080454.png HTTP/1.1" 304 0 212 
+2023-12-05 08:20:10,404 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080423.png HTTP/1.1" 304 0 212 
+2023-12-05 08:20:15,691 INFO "GET /?q=veg%20momo HTTP/1.1" 200 6623 212 
+2023-12-05 08:20:19,003 INFO "GET /?q=buff%20steam%20momo HTTP/1.1" 200 6623 212 
+2023-12-05 08:20:22,943 INFO "GET /?q=c%20momo%20chicken HTTP/1.1" 200 6623 212 
+2023-12-05 08:23:13,904 INFO "GET /?q=c%20momo%20chicken HTTP/1.1" 200 6600 212 
+2023-12-05 08:23:13,921 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080454.png HTTP/1.1" 304 0 212 
+2023-12-05 08:23:13,923 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080439.png HTTP/1.1" 304 0 212 
+2023-12-05 08:23:13,923 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080423.png HTTP/1.1" 304 0 212 
+2023-12-05 08:23:16,856 INFO "GET / HTTP/1.1" 200 6600 212 
+2023-12-05 08:23:20,920 INFO "GET /?q=Buff HTTP/1.1" 200 6600 212 
+2023-12-05 08:27:54,531 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:27:55,076 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:28:07,783 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:28:08,341 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:28:09,916 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:28:10,494 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:28:13,058 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:28:13,620 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:28:18,295 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:28:18,985 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:28:22,690 INFO "GET /?q=Buff HTTP/1.1" 200 6600 212 
+2023-12-05 08:28:22,710 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080454.png HTTP/1.1" 304 0 212 
+2023-12-05 08:28:22,711 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080439.png HTTP/1.1" 304 0 212 
+2023-12-05 08:28:22,714 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080423.png HTTP/1.1" 304 0 212 
+2023-12-05 08:28:26,846 INFO "GET /?q=Buff HTTP/1.1" 200 6600 212 
+2023-12-05 08:28:39,592 INFO "GET /?q=Veg HTTP/1.1" 200 6600 212 
+2023-12-05 08:28:51,374 INFO "GET /?q=Buff HTTP/1.1" 200 6600 212 
+2023-12-05 08:29:03,392 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:29:03,968 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:29:17,877 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:29:18,394 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:29:25,285 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:29:25,860 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:29:30,578 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:29:31,174 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:29:37,933 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:29:38,442 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:29:42,047 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:29:42,724 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:29:57,045 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:29:57,591 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:30:02,123 INFO "GET /?q=Buff HTTP/1.1" 200 6154 212 
+2023-12-05 08:30:12,049 INFO "GET / HTTP/1.1" 200 6600 212 
+2023-12-05 08:30:15,519 INFO "GET /?q=Veg HTTP/1.1" 200 6145 212 
+2023-12-05 08:30:15,533 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080454.png HTTP/1.1" 304 0 212 
+2023-12-05 08:31:30,024 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:31:30,566 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:31:31,841 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:31:32,468 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:31:38,216 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:31:38,793 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:31:50,526 INFO "GET /?q=Veg HTTP/1.1" 200 6145 212 
+2023-12-05 08:31:52,853 INFO "GET / HTTP/1.1" 200 6600 212 
+2023-12-05 08:31:52,946 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080439.png HTTP/1.1" 304 0 212 
+2023-12-05 08:31:52,947 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080423.png HTTP/1.1" 304 0 212 
+2023-12-05 08:32:05,308 INFO "GET /admin/core/recipe/add/ HTTP/1.1" 200 12564 212 
+2023-12-05 08:32:05,328 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 08:32:23,217 INFO "POST /admin/core/recipe/add/ HTTP/1.1" 302 0 212 
+2023-12-05 08:32:23,246 INFO "GET /admin/core/recipe/add/ HTTP/1.1" 200 12805 212 
+2023-12-05 08:32:23,262 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 08:32:40,140 INFO "POST /admin/core/recipe/add/ HTTP/1.1" 302 0 212 
+2023-12-05 08:32:40,157 INFO "GET /admin/core/recipe/add/ HTTP/1.1" 200 12805 212 
+2023-12-05 08:32:40,183 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 08:32:44,021 INFO "GET / HTTP/1.1" 200 6600 212 
+2023-12-05 08:32:44,035 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080454.png HTTP/1.1" 304 0 212 
+2023-12-05 08:32:46,937 INFO "GET /?q=Buff HTTP/1.1" 200 6591 212 
+2023-12-05 08:32:47,022 INFO "GET /media/recipe_pics/Screenshot_2023-09-05_175217.png HTTP/1.1" 200 91415 212 
+2023-12-05 08:32:47,022 INFO "GET /media/recipe_pics/Screenshot_2023-09-23_105615.png HTTP/1.1" 200 213567 212 
+2023-12-05 08:33:11,791 INFO "GET /?q=Buff HTTP/1.1" 200 6591 212 
+2023-12-05 08:33:11,807 INFO "GET /media/recipe_pics/Screenshot_2023-09-05_175217.png HTTP/1.1" 304 0 212 
+2023-12-05 08:33:11,807 INFO "GET /media/recipe_pics/Screenshot_2023-09-23_105615.png HTTP/1.1" 304 0 212 
+2023-12-05 08:36:12,566 INFO "GET /?q=Buff HTTP/1.1" 200 6591 212 
+2023-12-05 08:36:12,586 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080439.png HTTP/1.1" 304 0 212 
+2023-12-05 08:36:12,587 INFO "GET /media/recipe_pics/Screenshot_2023-09-05_175217.png HTTP/1.1" 304 0 212 
+2023-12-05 08:36:12,588 INFO "GET /media/recipe_pics/Screenshot_2023-09-23_105615.png HTTP/1.1" 304 0 212 
+2023-12-05 08:37:24,294 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:37:24,911 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:37:27,218 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:37:27,754 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:37:34,426 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:37:34,933 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:37:46,785 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:37:47,274 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:37:49,815 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:37:50,359 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:37:51,643 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:37:52,193 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:37:55,532 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:37:56,083 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:37:58,644 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:37:59,172 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:38:00,772 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:38:01,304 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:38:28,843 INFO "GET /?q=Buff HTTP/1.1" 200 6571 212 
+2023-12-05 08:38:28,873 INFO "GET /media/recipe_pics/Screenshot_2023-09-05_175217.png HTTP/1.1" 304 0 212 
+2023-12-05 08:38:28,874 INFO "GET /media/recipe_pics/Screenshot_2023-09-23_105615.png HTTP/1.1" 304 0 212 
+2023-12-05 08:38:31,251 INFO "GET /?q=Veg HTTP/1.1" 200 6329 212 
+2023-12-05 08:38:31,266 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080454.png HTTP/1.1" 304 0 212 
+2023-12-05 08:38:34,521 INFO "GET /?q=Buff HTTP/1.1" 200 6571 212 
+2023-12-05 08:38:37,849 INFO "GET /?q=Chicken HTTP/1.1" 200 6335 212 
+2023-12-05 08:38:37,865 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080423.png HTTP/1.1" 304 0 212 
+2023-12-05 08:39:54,017 INFO "GET /?q=Veg HTTP/1.1" 200 6329 212 
+2023-12-05 08:39:58,516 INFO "GET /?q=Buff HTTP/1.1" 200 6571 212 
+2023-12-05 08:39:58,531 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080439.png HTTP/1.1" 304 0 212 
+2023-12-05 08:39:58,533 INFO "GET /media/recipe_pics/Screenshot_2023-09-05_175217.png HTTP/1.1" 304 0 212 
+2023-12-05 08:39:58,536 INFO "GET /media/recipe_pics/Screenshot_2023-09-23_105615.png HTTP/1.1" 304 0 212 
+2023-12-05 08:40:02,116 INFO "GET /?q=Chicken HTTP/1.1" 200 6335 212 
+2023-12-05 08:40:05,166 INFO "GET /?q=Buff HTTP/1.1" 200 6571 212 
+2023-12-05 08:40:08,199 INFO "GET /?q=Veg HTTP/1.1" 200 6329 212 
+2023-12-05 08:40:11,084 INFO "GET / HTTP/1.1" 200 6576 212 
+2023-12-05 08:40:21,517 INFO "GET /?q=Veg HTTP/1.1" 200 6329 212 
+2023-12-05 08:40:26,118 INFO "GET /?q=Buff HTTP/1.1" 200 6571 212 
+2023-12-05 08:40:34,818 INFO "GET /our-services/ HTTP/1.1" 200 3939 212 
+2023-12-05 08:40:34,839 INFO "GET /static/core/css/ourservices.css HTTP/1.1" 304 0 212 
+2023-12-05 08:40:43,669 INFO "GET /about-us/ HTTP/1.1" 200 4104 212 
+2023-12-05 08:49:19,732 INFO "GET /admin/core/teammember/ HTTP/1.1" 200 9990 212 
+2023-12-05 08:49:19,762 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 08:51:09,729 INFO "GET /our-services/ HTTP/1.1" 200 3939 212 
+2023-12-05 08:51:12,409 INFO "GET /our-menu/ HTTP/1.1" 200 4188 212 
+2023-12-05 08:51:12,444 INFO "GET /static/core/css/ourmenu.css HTTP/1.1" 304 0 212 
+2023-12-05 08:51:27,331 INFO "GET /contact-us/ HTTP/1.1" 200 6145 212 
+2023-12-05 08:51:27,365 INFO "GET /static/core/css/contactus.css HTTP/1.1" 304 0 212 
+2023-12-05 08:51:27,368 INFO "GET /static/core/css/form.css HTTP/1.1" 304 0 212 
+2023-12-05 08:51:34,308 INFO "GET /allergy-advice/ HTTP/1.1" 200 3659 212 
+2023-12-05 08:51:34,343 INFO "GET /static/core/css/allergyadvice.css HTTP/1.1" 304 0 212 
+2023-12-05 08:51:37,181 INFO "GET /our-menu/ HTTP/1.1" 200 4188 212 
+2023-12-05 08:51:39,141 INFO "GET /our-services/ HTTP/1.1" 200 3939 212 
+2023-12-05 08:51:41,548 INFO "GET /about-us/ HTTP/1.1" 200 4104 212 
+2023-12-05 08:51:52,154 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:51:53,058 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:51:54,823 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:51:55,533 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:52:02,745 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:52:03,510 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:52:04,873 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:52:05,718 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:52:10,715 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:52:11,469 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:52:35,910 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:52:36,755 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:52:41,647 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:52:42,388 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:52:47,345 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:52:48,098 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:52:51,017 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:52:51,853 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:52:53,635 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:52:54,378 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:52:56,088 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:52:56,876 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:52:58,760 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:52:59,538 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:53:02,414 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:53:03,164 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:53:06,078 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:53:06,938 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:53:08,406 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:53:09,107 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:53:11,071 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 08:53:11,880 INFO Watching for file changes with StatReloader 668 
+2023-12-05 08:54:27,486 INFO "GET /about-us/ HTTP/1.1" 200 3699 212 
+2023-12-05 08:55:01,377 INFO "GET /about-us/ HTTP/1.1" 200 3755 212 
+2023-12-05 08:55:01,527 INFO "GET /media/team_member_pics/Screenshot_2023-09-23_105516.png HTTP/1.1" 200 139328 212 
+2023-12-05 08:55:27,609 INFO "GET /about-us/ HTTP/1.1" 200 3756 212 
+2023-12-05 09:21:40,859 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 09:21:41,691 INFO Watching for file changes with StatReloader 668 
+2023-12-05 09:21:47,097 INFO "GET /about-us/ HTTP/1.1" 200 4007 212 
+2023-12-05 09:21:48,190 INFO "GET /about-us/ HTTP/1.1" 200 4007 212 
+2023-12-05 09:21:48,402 INFO "GET /about-us/ HTTP/1.1" 200 4007 212 
+2023-12-05 09:21:48,611 INFO "GET /about-us/ HTTP/1.1" 200 4007 212 
+2023-12-05 09:21:48,842 INFO "GET /about-us/ HTTP/1.1" 200 4007 212 
+2023-12-05 09:22:01,737 INFO "GET /admin/core/teammember/add/ HTTP/1.1" 200 12265 212 
+2023-12-05 09:22:01,782 INFO "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0 212 
+2023-12-05 09:22:01,785 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 09:22:15,352 INFO "POST /admin/core/teammember/add/ HTTP/1.1" 200 12436 212 
+2023-12-05 09:22:15,387 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 09:22:26,219 INFO "POST /admin/core/teammember/add/ HTTP/1.1" 302 0 212 
+2023-12-05 09:22:26,269 INFO "GET /admin/core/teammember/add/ HTTP/1.1" 200 12510 212 
+2023-12-05 09:22:26,303 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 09:22:43,605 INFO "POST /admin/core/teammember/add/ HTTP/1.1" 302 0 212 
+2023-12-05 09:22:43,651 INFO "GET /admin/core/teammember/add/ HTTP/1.1" 200 12506 212 
+2023-12-05 09:22:43,685 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 09:22:58,718 INFO "POST /admin/core/teammember/add/ HTTP/1.1" 302 0 212 
+2023-12-05 09:22:58,757 INFO "GET /admin/core/teammember/add/ HTTP/1.1" 200 12509 212 
+2023-12-05 09:22:58,784 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 09:23:15,766 INFO "POST /admin/core/teammember/add/ HTTP/1.1" 302 0 212 
+2023-12-05 09:23:15,804 INFO "GET /admin/core/teammember/add/ HTTP/1.1" 200 12507 212 
+2023-12-05 09:23:15,834 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 09:23:20,341 INFO "GET /about-us/ HTTP/1.1" 200 4646 212 
+2023-12-05 09:23:20,546 INFO "GET /media/team_member_pics/Screenshot_2023-08-29_101330.png HTTP/1.1" 200 303302 212 
+2023-12-05 09:23:20,548 INFO "GET /media/team_member_pics/Screenshot_2023-07-30_184152.png HTTP/1.1" 200 288437 212 
+2023-12-05 09:23:27,827 INFO "GET /about-us/?page=2 HTTP/1.1" 200 4402 212 
+2023-12-05 09:23:27,867 INFO "GET /media/team_member_pics/Screenshot_2023-09-06_172105.png HTTP/1.1" 200 9042 212 
+2023-12-05 09:23:27,873 INFO "GET /media/team_member_pics/Screenshot_2023-08-30_090731.png HTTP/1.1" 200 261325 212 
+2023-12-05 09:23:35,039 INFO "GET /about-us/?page=1 HTTP/1.1" 200 4646 212 
+2023-12-05 09:23:35,082 INFO "GET /media/team_member_pics/Screenshot_2023-08-29_101330.png HTTP/1.1" 304 0 212 
+2023-12-05 09:23:35,082 INFO "GET /media/team_member_pics/Screenshot_2023-07-30_184152.png HTTP/1.1" 304 0 212 
+2023-12-05 09:26:13,128 INFO "GET /admin/core/teammember/ HTTP/1.1" 200 10961 212 
+2023-12-05 09:26:13,148 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 09:26:15,495 INFO "GET /admin/core/teammember/2/change/ HTTP/1.1" 200 12821 212 
+2023-12-05 09:26:15,527 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 09:26:23,614 INFO "POST /admin/core/teammember/2/change/ HTTP/1.1" 302 0 212 
+2023-12-05 09:26:23,662 INFO "GET /admin/core/teammember/ HTTP/1.1" 200 11169 212 
+2023-12-05 09:26:23,686 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 09:26:25,878 INFO "GET /admin/core/teammember/3/change/ HTTP/1.1" 200 12809 212 
+2023-12-05 09:26:25,913 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 09:26:35,425 INFO "POST /admin/core/teammember/3/change/ HTTP/1.1" 302 0 212 
+2023-12-05 09:26:35,466 INFO "GET /admin/core/teammember/ HTTP/1.1" 200 11165 212 
+2023-12-05 09:26:35,497 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 09:26:36,994 INFO "GET /admin/core/teammember/4/change/ HTTP/1.1" 200 12820 212 
+2023-12-05 09:26:37,030 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 09:26:44,831 INFO "POST /admin/core/teammember/4/change/ HTTP/1.1" 302 0 212 
+2023-12-05 09:26:44,877 INFO "GET /admin/core/teammember/ HTTP/1.1" 200 11168 212 
+2023-12-05 09:26:44,915 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 09:26:46,661 INFO "GET /admin/core/teammember/5/change/ HTTP/1.1" 200 12816 212 
+2023-12-05 09:26:46,714 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 09:26:54,053 INFO "POST /admin/core/teammember/5/change/ HTTP/1.1" 302 0 212 
+2023-12-05 09:26:54,083 INFO "GET /admin/core/teammember/ HTTP/1.1" 200 11166 212 
+2023-12-05 09:26:54,110 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 09:26:57,711 INFO "GET /about-us/?page=1 HTTP/1.1" 200 4646 212 
+2023-12-05 09:26:57,749 INFO "GET /media/team_member_pics/Screenshot_2023-12-05_092603.png HTTP/1.1" 200 190300 212 
+2023-12-05 09:26:57,752 INFO "GET /media/team_member_pics/Screenshot_2023-12-05_092550.png HTTP/1.1" 200 283421 212 
+2023-12-05 09:27:02,001 INFO "GET /about-us/?page=2 HTTP/1.1" 200 4402 212 
+2023-12-05 09:27:02,026 INFO "GET /media/team_member_pics/Screenshot_2023-12-05_092540.png HTTP/1.1" 200 220273 212 
+2023-12-05 09:27:02,035 INFO "GET /media/team_member_pics/Screenshot_2023-12-05_092526.png HTTP/1.1" 200 233462 212 
+2023-12-05 09:27:06,130 INFO "GET /about-us/?page=1 HTTP/1.1" 200 4646 212 
+2023-12-05 09:27:06,174 INFO "GET /media/team_member_pics/Screenshot_2023-12-05_092603.png HTTP/1.1" 304 0 212 
+2023-12-05 09:27:06,174 INFO "GET /media/team_member_pics/Screenshot_2023-12-05_092550.png HTTP/1.1" 304 0 212 
+2023-12-05 09:27:38,978 INFO "GET /about-us/?page=1 HTTP/1.1" 200 4428 212 
+2023-12-05 09:27:39,008 INFO "GET /media/team_member_pics/Screenshot_2023-12-05_092550.png HTTP/1.1" 304 0 212 
+2023-12-05 09:27:39,008 INFO "GET /media/team_member_pics/Screenshot_2023-12-05_092603.png HTTP/1.1" 304 0 212 
+2023-12-05 09:27:46,039 INFO "GET /about-us/?page=2 HTTP/1.1" 200 4184 212 
+2023-12-05 09:27:46,070 INFO "GET /media/team_member_pics/Screenshot_2023-12-05_092540.png HTTP/1.1" 304 0 212 
+2023-12-05 09:27:46,071 INFO "GET /media/team_member_pics/Screenshot_2023-12-05_092526.png HTTP/1.1" 304 0 212 
+2023-12-05 09:27:50,709 INFO "GET / HTTP/1.1" 200 6576 212 
+2023-12-05 09:27:50,748 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080454.png HTTP/1.1" 304 0 212 
+2023-12-05 09:27:50,748 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080423.png HTTP/1.1" 304 0 212 
+2023-12-05 09:27:50,751 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080439.png HTTP/1.1" 304 0 212 
+2023-12-05 10:35:24,743 INFO "GET / HTTP/1.1" 200 6576 212 
+2023-12-05 10:35:24,770 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080454.png HTTP/1.1" 304 0 212 
+2023-12-05 10:35:24,770 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080439.png HTTP/1.1" 304 0 212 
+2023-12-05 10:35:24,770 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080423.png HTTP/1.1" 304 0 212 
+2023-12-05 10:35:28,864 INFO "GET /our-services/ HTTP/1.1" 200 3939 212 
+2023-12-05 10:35:42,098 INFO "GET /about-us/ HTTP/1.1" 200 4428 212 
+2023-12-05 10:35:42,137 INFO "GET /media/team_member_pics/Screenshot_2023-12-05_092603.png HTTP/1.1" 304 0 212 
+2023-12-05 10:35:42,140 INFO "GET /media/team_member_pics/Screenshot_2023-12-05_092550.png HTTP/1.1" 304 0 212 
+2023-12-05 10:35:46,503 INFO "GET /about-us/?page=2 HTTP/1.1" 200 4184 212 
+2023-12-05 10:35:46,530 INFO "GET /media/team_member_pics/Screenshot_2023-12-05_092540.png HTTP/1.1" 304 0 212 
+2023-12-05 10:35:46,530 INFO "GET /media/team_member_pics/Screenshot_2023-12-05_092526.png HTTP/1.1" 304 0 212 
+2023-12-05 10:35:49,772 INFO "GET /about-us/?page=1 HTTP/1.1" 200 4428 212 
+2023-12-05 10:35:57,519 INFO "GET /about-us/?page=2 HTTP/1.1" 200 4184 212 
+2023-12-05 10:36:04,772 INFO "GET /about-us/?page=1 HTTP/1.1" 200 4428 212 
+2023-12-05 10:36:13,484 INFO "GET / HTTP/1.1" 200 6576 212 
+2023-12-05 10:36:17,412 INFO "GET /?q=Veg HTTP/1.1" 200 6329 212 
+2023-12-05 10:36:19,972 INFO "GET /?q=Buff HTTP/1.1" 200 6571 212 
+2023-12-05 10:36:20,006 INFO "GET /media/recipe_pics/Screenshot_2023-09-23_105615.png HTTP/1.1" 304 0 212 
+2023-12-05 10:36:20,013 INFO "GET /media/recipe_pics/Screenshot_2023-09-05_175217.png HTTP/1.1" 304 0 212 
+2023-12-05 10:36:22,379 INFO "GET /?q=Chicken HTTP/1.1" 200 6335 212 
+2023-12-05 10:36:36,638 INFO "GET /?q=Chicken HTTP/1.1" 200 6335 212 
+2023-12-05 10:36:40,126 INFO "GET /our-menu/ HTTP/1.1" 200 4188 212 
+2023-12-05 10:40:15,525 INFO "GET /admin/core/contactnumber/ HTTP/1.1" 200 10065 212 
+2023-12-05 10:40:15,569 INFO "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0 212 
+2023-12-05 10:40:15,569 INFO "GET /static/admin/css/base.css HTTP/1.1" 304 0 212 
+2023-12-05 10:40:15,589 INFO "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0 212 
+2023-12-05 10:40:15,589 INFO "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0 212 
+2023-12-05 10:40:15,597 INFO "GET /static/admin/css/changelists.css HTTP/1.1" 304 0 212 
+2023-12-05 10:40:15,597 INFO "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0 212 
+2023-12-05 10:40:15,607 INFO "GET /static/admin/js/core.js HTTP/1.1" 304 0 212 
+2023-12-05 10:40:15,607 INFO "GET /static/admin/css/responsive.css HTTP/1.1" 304 0 212 
+2023-12-05 10:40:15,612 INFO "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0 212 
+2023-12-05 10:40:15,612 INFO "GET /static/admin/js/actions.js HTTP/1.1" 304 0 212 
+2023-12-05 10:40:15,619 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 10:40:15,619 INFO "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0 212 
+2023-12-05 10:40:15,619 INFO "GET /static/admin/js/urlify.js HTTP/1.1" 304 0 212 
+2023-12-05 10:40:15,619 INFO "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0 212 
+2023-12-05 10:40:15,630 INFO "GET /static/admin/js/theme.js HTTP/1.1" 304 0 212 
+2023-12-05 10:40:15,638 INFO "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0 212 
+2023-12-05 10:40:15,643 INFO "GET /static/admin/js/filters.js HTTP/1.1" 304 0 212 
+2023-12-05 10:40:15,648 INFO "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0 212 
+2023-12-05 10:40:15,648 INFO "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0 212 
+2023-12-05 10:40:17,558 INFO "GET /admin/core/owner/ HTTP/1.1" 200 9991 212 
+2023-12-05 10:40:17,591 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 10:40:18,886 INFO "GET /admin/core/recipe/ HTTP/1.1" 200 11507 212 
+2023-12-05 10:40:18,925 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 10:40:23,158 INFO "GET /admin/core/owner/ HTTP/1.1" 200 9991 212 
+2023-12-05 10:40:23,208 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 10:40:24,474 INFO "GET /admin/core/owner/1/change/ HTTP/1.1" 200 10329 212 
+2023-12-05 10:40:24,512 INFO "GET /static/admin/css/forms.css HTTP/1.1" 304 0 212 
+2023-12-05 10:40:24,523 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 10:40:24,523 INFO "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0 212 
+2023-12-05 10:40:24,528 INFO "GET /static/admin/css/widgets.css HTTP/1.1" 304 0 212 
+2023-12-05 10:40:24,532 INFO "GET /static/admin/js/change_form.js HTTP/1.1" 304 0 212 
+2023-12-05 10:40:27,765 INFO "GET /admin/core/teammember/ HTTP/1.1" 200 10961 212 
+2023-12-05 10:40:27,806 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 10:40:30,842 INFO "GET /admin/core/owner/ HTTP/1.1" 200 9991 212 
+2023-12-05 10:40:30,878 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 10:40:32,492 INFO "GET /admin/core/owner/1/change/ HTTP/1.1" 200 10329 212 
+2023-12-05 10:40:32,530 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 10:40:38,609 INFO "POST /admin/core/owner/1/change/ HTTP/1.1" 302 0 212 
+2023-12-05 10:40:38,641 INFO "GET /admin/core/owner/ HTTP/1.1" 200 10207 212 
+2023-12-05 10:40:38,679 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 10:40:38,695 INFO "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0 212 
+2023-12-05 10:40:41,875 INFO "GET /about-us/ HTTP/1.1" 200 4428 212 
+2023-12-05 10:40:45,532 INFO "GET /contact-us/ HTTP/1.1" 200 6145 212 
+2023-12-05 10:40:52,843 INFO "GET /about-us/ HTTP/1.1" 200 4428 212 
+2023-12-05 10:40:54,144 INFO "GET /our-services/ HTTP/1.1" 200 3939 212 
+2023-12-05 10:40:55,226 INFO "GET /our-menu/ HTTP/1.1" 200 4188 212 
+2023-12-05 10:41:05,138 INFO "GET /about-us/ HTTP/1.1" 200 4428 212 
+2023-12-05 10:41:08,515 INFO "GET /our-services/ HTTP/1.1" 200 3939 212 
+2023-12-05 10:41:11,838 INFO "GET /our-menu/ HTTP/1.1" 200 4188 212 
+2023-12-05 10:45:35,102 INFO "GET /our-services/ HTTP/1.1" 200 3939 212 
+2023-12-05 10:45:43,055 INFO "GET /our-services/ HTTP/1.1" 200 3939 212 
+2023-12-05 10:45:45,110 INFO "GET /our-menu/ HTTP/1.1" 200 4188 212 
+2023-12-05 10:45:48,701 INFO "GET /allergy-advice/ HTTP/1.1" 200 3659 212 
+2023-12-05 10:45:54,560 INFO "GET /contact-us/ HTTP/1.1" 200 6145 212 
+2023-12-05 10:45:57,745 INFO "GET /our-services/ HTTP/1.1" 200 3939 212 
+2023-12-05 10:46:03,385 INFO "GET /about-us/ HTTP/1.1" 200 4428 212 
+2023-12-05 10:46:03,425 INFO "GET /media/team_member_pics/Screenshot_2023-12-05_092603.png HTTP/1.1" 304 0 212 
+2023-12-05 10:46:03,429 INFO "GET /media/team_member_pics/Screenshot_2023-12-05_092550.png HTTP/1.1" 304 0 212 
+2023-12-05 10:46:06,128 INFO "GET /our-services/ HTTP/1.1" 200 3939 212 
+2023-12-05 10:51:31,758 INFO "GET /our-menu/ HTTP/1.1" 200 4188 212 
+2023-12-05 10:51:33,584 INFO "GET /allergy-advice/ HTTP/1.1" 200 3659 212 
+2023-12-05 10:51:34,904 INFO "GET /contact-us/ HTTP/1.1" 200 6145 212 
+2023-12-05 10:51:43,252 INFO "GET /about-us/ HTTP/1.1" 200 4428 212 
+2023-12-05 10:51:46,707 INFO "GET /about-us/ HTTP/1.1" 200 4428 212 
+2023-12-05 10:51:52,120 INFO "GET /our-services/ HTTP/1.1" 200 3939 212 
+2023-12-05 10:51:53,415 INFO "GET /our-menu/ HTTP/1.1" 200 4188 212 
+2023-12-05 10:51:56,911 INFO "GET /contact-us/ HTTP/1.1" 200 6145 212 
+2023-12-05 10:52:00,068 INFO "GET /our-services/ HTTP/1.1" 200 3939 212 
+2023-12-05 10:52:07,654 INFO "GET /our-services/ HTTP/1.1" 200 3939 212 
+2023-12-05 10:52:10,595 INFO "GET /our-menu/ HTTP/1.1" 200 4188 212 
+2023-12-05 11:21:29,251 INFO "GET /allergy-advice/ HTTP/1.1" 200 3659 212 
+2023-12-05 11:41:28,237 INFO "GET /about-us/ HTTP/1.1" 200 4428 212 
+2023-12-05 11:41:28,271 INFO "GET /media/team_member_pics/Screenshot_2023-12-05_092550.png HTTP/1.1" 304 0 212 
+2023-12-05 11:41:28,272 INFO "GET /media/team_member_pics/Screenshot_2023-12-05_092603.png HTTP/1.1" 304 0 212 
+2023-12-05 11:41:32,142 INFO "GET /our-services/ HTTP/1.1" 200 3939 212 
+2023-12-05 11:41:33,156 INFO "GET /our-menu/ HTTP/1.1" 200 4188 212 
+2023-12-05 11:42:21,947 INFO "GET /our-menu/ HTTP/1.1" 200 4223 212 
+2023-12-05 11:42:21,970 INFO "GET /static/core/images/qr_our_menu.png HTTP/1.1" 200 267009 212 
+2023-12-05 11:42:51,973 INFO "GET /our-menu/ HTTP/1.1" 200 4248 212 
+2023-12-05 11:43:17,109 INFO "GET /allergy-advice/ HTTP/1.1" 200 3659 212 
+2023-12-05 11:50:36,740 INFO "GET /admin/core/owner/ HTTP/1.1" 200 9998 212 
+2023-12-05 11:50:36,822 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 11:50:39,808 INFO "GET /allergy-advice/ HTTP/1.1" 200 3700 212 
+2023-12-05 11:50:39,829 INFO "GET /static/core/images/qr_allergy_advice.png HTTP/1.1" 200 394 212 
+2023-12-05 11:51:00,490 INFO "GET /our-services/ HTTP/1.1" 200 3939 212 
+2023-12-05 11:52:02,599 INFO "GET /our-services/ HTTP/1.1" 200 3966 212 
+2023-12-05 11:52:04,316 INFO "GET /contact-us/ HTTP/1.1" 200 6145 212 
+2023-12-05 11:52:17,727 INFO "GET /our-services/ HTTP/1.1" 200 3966 212 
+2023-12-05 11:52:19,023 INFO "GET /about-us/ HTTP/1.1" 200 4428 212 
+2023-12-05 11:52:22,319 INFO "GET / HTTP/1.1" 200 6559 212 
+2023-12-05 11:52:22,348 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080439.png HTTP/1.1" 304 0 212 
+2023-12-05 11:52:22,349 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080454.png HTTP/1.1" 304 0 212 
+2023-12-05 11:52:22,350 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080423.png HTTP/1.1" 304 0 212 
+2023-12-05 11:52:35,194 INFO "GET /?q=Veg HTTP/1.1" 200 6314 212 
+2023-12-05 11:52:37,672 INFO "GET /?q=Buff HTTP/1.1" 200 6554 212 
+2023-12-05 11:52:37,693 INFO "GET /media/recipe_pics/Screenshot_2023-09-05_175217.png HTTP/1.1" 304 0 212 
+2023-12-05 11:52:37,694 INFO "GET /media/recipe_pics/Screenshot_2023-09-23_105615.png HTTP/1.1" 304 0 212 
+2023-12-05 11:52:39,997 INFO "GET /?q=Chicken HTTP/1.1" 200 6320 212 
+2023-12-05 15:15:55,361 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:15:56,535 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:15:59,370 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:16:00,150 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:16:07,287 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:16:07,962 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:16:09,722 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:16:10,404 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:16:43,301 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:16:44,049 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:16:45,796 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:16:46,536 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:16:52,648 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:16:53,408 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:16:56,162 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:16:56,887 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:17:12,636 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080423.png HTTP/1.1" 304 0 212 
+2023-12-05 15:17:19,240 INFO "GET /our-services/ HTTP/1.1" 200 3966 212 
+2023-12-05 15:17:26,994 INFO "GET /contact-us/ HTTP/1.1" 200 6145 212 
+2023-12-05 15:17:31,163 INFO "GET /contact-us/ HTTP/1.1" 200 6145 212 
+2023-12-05 15:17:32,257 INFO "GET /allergy-advice/ HTTP/1.1" 200 3700 212 
+2023-12-05 15:17:32,281 INFO "GET /static/core/images/qr_allergy_advice.png HTTP/1.1" 304 0 212 
+2023-12-05 15:17:37,725 INFO "GET /allergy-advice/ HTTP/1.1" 200 3700 212 
+2023-12-05 15:17:40,278 INFO "GET /our-menu/ HTTP/1.1" 200 4248 212 
+2023-12-05 15:17:40,319 INFO "GET /static/core/images/qr_our_menu.png HTTP/1.1" 304 0 212 
+2023-12-05 15:17:43,407 INFO "GET /our-services/ HTTP/1.1" 200 3966 212 
+2023-12-05 15:17:52,810 INFO "GET /our-menu/ HTTP/1.1" 200 4248 212 
+2023-12-05 15:18:40,737 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:18:41,602 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:18:44,459 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:18:45,384 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:18:49,270 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:18:49,919 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:18:52,682 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:18:53,458 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:18:55,057 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:18:55,775 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:18:59,778 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:19:00,545 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:19:03,420 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:19:04,214 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:19:06,964 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:19:07,680 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:19:09,386 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:19:10,642 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:26:58,155 INFO "GET /our-menu/ HTTP/1.1" 200 4355 212 
+2023-12-05 15:31:56,697 INFO "GET /our-menu/ HTTP/1.1" 200 4320 212 
+2023-12-05 15:33:10,098 INFO "GET /our-menu/ HTTP/1.1" 200 4320 212 
+2023-12-05 15:33:29,010 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:33:29,807 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:33:31,570 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:33:32,531 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:33:34,108 INFO "GET /our-menu/ HTTP/1.1" 200 4320 212 
+2023-12-05 15:34:49,074 INFO "GET /our-menu/ HTTP/1.1" 200 4320 212 
+2023-12-05 15:34:50,330 INFO "GET / HTTP/1.1" 200 6559 212 
+2023-12-05 15:34:50,360 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080454.png HTTP/1.1" 304 0 212 
+2023-12-05 15:34:50,364 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080439.png HTTP/1.1" 304 0 212 
+2023-12-05 15:34:56,575 INFO "GET /about-us/ HTTP/1.1" 200 4428 212 
+2023-12-05 15:34:56,614 INFO "GET /media/team_member_pics/Screenshot_2023-12-05_092603.png HTTP/1.1" 304 0 212 
+2023-12-05 15:34:56,616 INFO "GET /media/team_member_pics/Screenshot_2023-12-05_092550.png HTTP/1.1" 304 0 212 
+2023-12-05 15:35:05,704 INFO "GET /our-menu/ HTTP/1.1" 200 4320 212 
+2023-12-05 15:35:08,033 INFO "GET /allergy-advice/ HTTP/1.1" 200 3700 212 
+2023-12-05 15:35:12,595 INFO "GET /contact-us/ HTTP/1.1" 200 6145 212 
+2023-12-05 15:35:17,466 INFO "GET /contact-us/ HTTP/1.1" 200 6145 212 
+2023-12-05 15:35:18,446 INFO "GET /allergy-advice/ HTTP/1.1" 200 3700 212 
+2023-12-05 15:35:19,527 INFO "GET /our-menu/ HTTP/1.1" 200 4320 212 
+2023-12-05 15:35:21,049 INFO "GET /our-services/ HTTP/1.1" 200 3966 212 
+2023-12-05 15:45:35,649 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:45:36,529 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:45:51,115 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:45:51,927 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:45:55,357 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:45:56,024 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:45:58,414 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:45:59,281 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:46:07,044 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:46:07,707 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:46:09,113 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:46:09,740 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:46:13,190 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:46:13,936 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:46:15,304 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:46:15,981 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:46:19,590 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:46:20,357 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:46:27,372 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:46:28,178 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:46:41,754 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:46:42,460 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:46:45,916 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:46:46,641 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:46:50,086 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:46:50,838 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:46:53,711 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:46:54,466 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:47:00,386 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:47:01,174 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:47:04,971 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:47:05,677 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:47:13,525 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:47:14,303 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:47:19,631 INFO "GET /our-services/ HTTP/1.1" 200 3966 212 
+2023-12-05 15:47:24,321 INFO "GET /our-menu/ HTTP/1.1" 200 4320 212 
+2023-12-05 15:47:47,096 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:47:47,938 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:47:49,268 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:47:49,936 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:47:54,721 ERROR Internal Server Error: /our-menu/ 241 
+Traceback (most recent call last):
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py", line 83, in our_menu
+    print(recipes)
+AttributeError: 'QuerySet' object has no attribute 'ty'
+2023-12-05 15:47:54,721 ERROR "GET /our-menu/ HTTP/1.1" 500 68073 212 
+2023-12-05 15:48:29,786 ERROR Internal Server Error: /our-menu/ 241 
+Traceback (most recent call last):
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py", line 83, in our_menu
+    print(recipes)
+AttributeError: 'QuerySet' object has no attribute 'ty'
+2023-12-05 15:48:29,786 ERROR "GET /our-menu/ HTTP/1.1" 500 68073 212 
+2023-12-05 15:48:39,612 ERROR Internal Server Error: /our-menu/ 241 
+Traceback (most recent call last):
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py", line 83, in our_menu
+    print(recipes)
+AttributeError: 'QuerySet' object has no attribute 'ty'
+2023-12-05 15:48:39,612 ERROR "GET /our-menu/ HTTP/1.1" 500 68073 212 
+2023-12-05 15:48:52,749 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:48:54,887 INFO "GET /our-menu/ HTTP/1.1" 200 4320 212 
+2023-12-05 15:48:57,009 INFO "GET /our-menu/ HTTP/1.1" 200 4320 212 
+2023-12-05 15:50:32,617 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:50:33,412 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:50:37,164 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:50:38,131 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:50:47,579 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:50:48,246 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:50:49,615 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:50:50,412 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:50:53,216 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:50:53,935 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:50:59,970 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:51:00,747 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:51:07,829 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:51:08,561 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:51:15,738 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:51:16,431 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:51:18,131 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:51:18,958 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:51:21,872 INFO "GET /our-menu/ HTTP/1.1" 200 4320 212 
+2023-12-05 15:55:25,393 INFO "GET /admin/core/owner/ HTTP/1.1" 200 9998 212 
+2023-12-05 15:55:25,434 INFO "GET /static/admin/css/base.css HTTP/1.1" 304 0 212 
+2023-12-05 15:55:25,459 INFO "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0 212 
+2023-12-05 15:55:25,468 INFO "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0 212 
+2023-12-05 15:55:25,469 INFO "GET /static/admin/css/responsive.css HTTP/1.1" 304 0 212 
+2023-12-05 15:55:25,469 INFO "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0 212 
+2023-12-05 15:55:25,473 INFO "GET /static/admin/css/changelists.css HTTP/1.1" 304 0 212 
+2023-12-05 15:55:25,478 INFO "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0 212 
+2023-12-05 15:55:25,485 INFO "GET /static/admin/js/core.js HTTP/1.1" 304 0 212 
+2023-12-05 15:55:25,485 INFO "GET /static/admin/js/actions.js HTTP/1.1" 304 0 212 
+2023-12-05 15:55:25,485 INFO "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0 212 
+2023-12-05 15:55:25,492 INFO "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0 212 
+2023-12-05 15:55:25,494 INFO "GET /static/admin/js/urlify.js HTTP/1.1" 304 0 212 
+2023-12-05 15:55:25,494 INFO "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0 212 
+2023-12-05 15:55:25,501 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-05 15:55:25,509 INFO "GET /static/admin/js/theme.js HTTP/1.1" 304 0 212 
+2023-12-05 15:55:25,543 INFO "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0 212 
+2023-12-05 15:55:25,562 INFO "GET /static/admin/js/filters.js HTTP/1.1" 304 0 212 
+2023-12-05 15:55:25,599 INFO "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0 212 
+2023-12-05 15:55:25,602 INFO "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0 212 
+2023-12-05 15:58:06,507 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:58:07,544 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:58:09,787 INFO "GET /our-menu/ HTTP/1.1" 200 4320 212 
+2023-12-05 15:58:35,617 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:58:36,353 INFO Watching for file changes with StatReloader 668 
+2023-12-05 15:58:38,027 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-05 15:58:38,753 INFO Watching for file changes with StatReloader 668 
+2023-12-05 16:00:15,376 INFO "GET /our-menu/ HTTP/1.1" 200 4390 212 
+2023-12-05 16:00:50,304 INFO "GET /our-menu/ HTTP/1.1" 200 4015 212 
+2023-12-05 16:01:05,060 INFO "GET /our-menu/ HTTP/1.1" 200 4037 212 
+2023-12-05 16:02:07,722 INFO "GET /our-menu/ HTTP/1.1" 200 3990 212 
+2023-12-05 16:02:49,262 INFO "GET /our-menu/ HTTP/1.1" 200 7305 212 
+2023-12-05 16:02:49,298 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080423.png HTTP/1.1" 304 0 212 
+2023-12-05 16:02:49,298 INFO "GET /media/recipe_pics/Screenshot_2023-09-05_175217.png HTTP/1.1" 304 0 212 
+2023-12-05 16:02:49,301 INFO "GET /media/recipe_pics/Screenshot_2023-09-23_105615.png HTTP/1.1" 304 0 212 
+2023-12-05 16:06:44,000 INFO "GET /our-menu/ HTTP/1.1" 200 7305 212 
+2023-12-05 16:07:29,320 INFO "GET /our-menu/ HTTP/1.1" 200 5235 212 
+2023-12-05 16:08:12,009 INFO "GET /our-menu/ HTTP/1.1" 200 3090 212 
+2023-12-05 16:11:08,688 INFO "GET /our-menu/ HTTP/1.1" 200 4968 212 
+2023-12-05 16:11:53,890 INFO "GET /our-menu/ HTTP/1.1" 200 5478 212 
+2023-12-05 16:21:41,852 INFO "GET /our-menu/ HTTP/1.1" 200 5478 212 
+2023-12-05 16:21:41,883 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080454.png HTTP/1.1" 304 0 212 
+2023-12-05 16:21:41,883 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080439.png HTTP/1.1" 304 0 212 
+2023-12-05 16:24:35,725 INFO "GET /our-menu/ HTTP/1.1" 200 5595 212 
+2023-12-05 16:24:47,970 INFO Watching for file changes with StatReloader 668 
+2023-12-05 16:24:49,988 INFO "GET /our-menu/ HTTP/1.1" 200 5595 212 
+2023-12-05 18:52:14,025 INFO "GET / HTTP/1.1" 200 6559 212 
+2023-12-05 18:52:14,065 INFO "GET /static/css/footer.css HTTP/1.1" 304 0 212 
+2023-12-05 18:52:14,071 INFO "GET /static/core/images/logo.png HTTP/1.1" 304 0 212 
+2023-12-05 18:52:14,073 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080439.png HTTP/1.1" 304 0 212 
+2023-12-05 18:52:14,073 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080454.png HTTP/1.1" 304 0 212 
+2023-12-05 18:52:14,073 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080423.png HTTP/1.1" 304 0 212 
+2023-12-05 18:52:24,039 INFO "GET /?q=Veg HTTP/1.1" 200 6314 212 
+2023-12-05 18:52:27,202 INFO "GET /?q=Buff HTTP/1.1" 200 6554 212 
+2023-12-05 18:52:27,220 INFO "GET /media/recipe_pics/Screenshot_2023-09-05_175217.png HTTP/1.1" 304 0 212 
+2023-12-05 18:52:27,221 INFO "GET /media/recipe_pics/Screenshot_2023-09-23_105615.png HTTP/1.1" 304 0 212 
+2023-12-05 18:52:30,901 INFO "GET /?q=Chicken HTTP/1.1" 200 6320 212 
+2023-12-05 18:52:56,577 INFO "GET /?q=Chicken HTTP/1.1" 200 6320 212 
+2023-12-05 18:53:00,665 INFO "GET /our-menu/ HTTP/1.1" 200 5595 212 
+2023-12-05 18:53:00,726 INFO "GET /static/core/css/ourmenu.css HTTP/1.1" 304 0 212 
+2023-12-05 19:02:57,974 ERROR Internal Server Error: /our-menu/ 241 
+Traceback (most recent call last):
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 505, in parse
+    compile_func = self.tags[command]
+KeyError: 'staic'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py", line 87, in our_menu
+    return render(request,'core/our_menu.html',context)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\CPN\AppData\Local\Programs\Python\Python310\lib\site-packages\django\template\base.py", line 558, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 22: 'staic', expected 'endblock'. Did you forget to register or load this tag?
+2023-12-05 19:02:57,974 ERROR "GET /our-menu/ HTTP/1.1" 500 193374 212 
+2023-12-05 19:03:10,734 INFO "GET /our-menu/ HTTP/1.1" 200 5630 212 
+2023-12-05 19:03:10,763 INFO "GET /static/core/images/qr_our_menu.png HTTP/1.1" 304 0 212 
+2023-12-05 19:03:32,274 INFO "GET /contact-us/ HTTP/1.1" 200 6145 212 
+2023-12-05 19:03:38,981 INFO "GET /allergy-advice/ HTTP/1.1" 200 3700 212 
+2023-12-05 19:03:39,015 INFO "GET /static/core/images/qr_allergy_advice.png HTTP/1.1" 304 0 212 
+2023-12-05 19:03:43,300 INFO "GET /our-menu/ HTTP/1.1" 200 5630 212 
+2023-12-05 19:03:49,319 INFO "GET /our-services/ HTTP/1.1" 200 3966 212 
+2023-12-17 12:51:00,383 INFO Watching for file changes with StatReloader 668 
+2023-12-17 12:51:03,079 INFO "GET / HTTP/1.1" 200 6559 212 
+2023-12-17 12:51:03,295 INFO "GET /static/core/css/index.css HTTP/1.1" 200 1445 212 
+2023-12-17 12:51:03,310 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080454.png HTTP/1.1" 200 376492 212 
+2023-12-17 12:51:03,312 INFO "GET /static/css/header.css HTTP/1.1" 200 971 212 
+2023-12-17 12:51:03,312 INFO "GET /static/css/footer.css HTTP/1.1" 200 750 212 
+2023-12-17 12:51:03,329 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080439.png HTTP/1.1" 200 280121 212 
+2023-12-17 12:51:03,329 INFO "GET /media/recipe_pics/Screenshot_2023-12-05_080423.png HTTP/1.1" 200 380698 212 
+2023-12-17 12:51:03,329 INFO "GET /static/core/images/logo.png HTTP/1.1" 200 11200 212 
+2023-12-17 12:51:03,346 INFO "GET /static/core/images/tiktok.png HTTP/1.1" 200 53481 212 
+2023-12-17 12:51:03,346 INFO "GET /static/core/images/facebook.png HTTP/1.1" 200 74047 212 
+2023-12-17 12:51:03,346 INFO "GET /static/core/images/instagram.png HTTP/1.1" 200 203078 212 
+2023-12-17 12:51:03,430 WARNING Not Found: /favicon.ico 241 
+2023-12-17 12:51:03,430 WARNING "GET /favicon.ico HTTP/1.1" 404 3291 212 
+2023-12-17 12:51:14,863 INFO "GET /admin/ HTTP/1.1" 302 0 212 
+2023-12-17 12:51:14,973 INFO "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4178 212 
+2023-12-17 12:51:15,021 INFO "GET /static/admin/css/login.css HTTP/1.1" 200 958 212 
+2023-12-17 12:51:23,645 INFO "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0 212 
+2023-12-17 12:51:23,695 INFO "GET /admin/ HTTP/1.1" 200 10864 212 
+2023-12-17 12:52:58,342 INFO "GET /admin/core/recipe/ HTTP/1.1" 200 11507 212 
+2023-12-17 12:52:58,383 INFO "GET /static/admin/img/search.svg HTTP/1.1" 200 458 212 
+2023-12-17 12:52:58,389 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-17 12:53:03,853 INFO "GET /admin/core/recipe/2/change/ HTTP/1.1" 200 13187 212 
+2023-12-17 12:53:03,881 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-17 12:53:18,468 INFO "POST /admin/core/recipe/2/change/ HTTP/1.1" 302 0 212 
+2023-12-17 12:53:18,511 INFO "GET /admin/core/recipe/ HTTP/1.1" 200 11716 212 
+2023-12-17 12:53:18,534 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-17 12:53:20,962 INFO "GET / HTTP/1.1" 200 6559 212 
+2023-12-17 12:53:20,992 INFO "GET /media/recipe_pics/Screenshot_2023-08-29_101330.png HTTP/1.1" 200 303302 212 
+2023-12-17 12:53:30,691 INFO "GET /admin/core/recipe/2/change/ HTTP/1.1" 200 13187 212 
+2023-12-17 12:53:30,713 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-17 12:53:40,201 INFO "POST /admin/core/recipe/2/change/ HTTP/1.1" 302 0 212 
+2023-12-17 12:53:40,241 INFO "GET /admin/core/recipe/ HTTP/1.1" 200 11716 212 
+2023-12-17 12:53:40,277 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-17 12:53:42,781 INFO "GET / HTTP/1.1" 200 6559 212 
+2023-12-17 12:53:42,813 INFO "GET /media/recipe_pics/Screenshot_2023-08-30_090731.png HTTP/1.1" 200 261325 212 
+2023-12-17 12:53:59,578 INFO "GET /our-services/ HTTP/1.1" 200 3966 212 
+2023-12-17 12:53:59,624 INFO "GET /static/core/css/ourservices.css HTTP/1.1" 200 410 212 
+2023-12-17 12:54:03,868 INFO "GET /our-menu/ HTTP/1.1" 200 5630 212 
+2023-12-17 12:54:03,911 INFO "GET /media/recipe_pics/Screenshot_2023-08-30_090731.png HTTP/1.1" 304 0 212 
+2023-12-17 12:54:03,918 INFO "GET /static/core/css/ourmenu.css HTTP/1.1" 200 0 212 
+2023-12-17 12:54:03,921 INFO "GET /media/recipe_pics/Screenshot_2023-09-05_175217.png HTTP/1.1" 200 91415 212 
+2023-12-17 12:54:03,923 INFO "GET /static/core/images/qr_our_menu.png HTTP/1.1" 200 267009 212 
+2023-12-17 12:54:03,927 INFO "GET /media/recipe_pics/Screenshot_2023-09-23_105615.png HTTP/1.1" 200 213567 212 
+2023-12-17 12:54:11,141 INFO "GET /allergy-advice/ HTTP/1.1" 200 3700 212 
+2023-12-17 12:54:11,167 INFO "GET /static/core/images/qr_allergy_advice.png HTTP/1.1" 200 394 212 
+2023-12-17 12:54:11,167 INFO "GET /static/core/css/allergyadvice.css HTTP/1.1" 200 478 212 
+2023-12-17 12:54:15,125 INFO "GET /contact-us/ HTTP/1.1" 200 6145 212 
+2023-12-17 12:54:15,159 INFO "GET /static/core/css/form.css HTTP/1.1" 200 850 212 
+2023-12-17 12:54:15,159 INFO "GET /static/core/css/contactus.css HTTP/1.1" 200 639 212 
+2023-12-17 12:55:02,989 INFO "GET / HTTP/1.1" 200 6559 212 
+2023-12-17 12:55:03,008 INFO "GET /media/recipe_pics/Screenshot_2023-08-30_090731.png HTTP/1.1" 304 0 212 
+2023-12-17 12:55:09,182 INFO "GET /?q=Buff HTTP/1.1" 200 6554 212 
+2023-12-17 12:55:12,840 INFO "GET /?q=Veg HTTP/1.1" 200 6314 212 
+2023-12-17 12:55:23,553 INFO "GET /allergy-advice/ HTTP/1.1" 200 3700 212 
+2023-12-17 12:55:26,861 INFO "GET /contact-us/ HTTP/1.1" 200 6145 212 
+2023-12-17 12:55:41,069 INFO "GET /admin/core/userquery/ HTTP/1.1" 200 10937 212 
+2023-12-17 12:55:41,090 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-17 12:56:00,562 INFO "POST /contact-us/ HTTP/1.1" 302 0 212 
+2023-12-17 12:56:00,579 INFO "GET /contact-us/ HTTP/1.1" 200 6145 212 
+2023-12-17 12:56:04,834 INFO "GET /admin/core/userquery/ HTTP/1.1" 200 11318 212 
+2023-12-17 12:56:04,867 INFO "GET /admin/jsi18n/ HTTP/1.1" 200 3343 212 
+2023-12-17 12:56:47,657 INFO "GET /allergy-advice/ HTTP/1.1" 200 3700 212 
+2023-12-17 12:56:49,121 INFO "GET /contact-us/ HTTP/1.1" 200 6145 212 
+2023-12-17 12:57:41,768 INFO "GET / HTTP/1.1" 200 6559 212 
+2023-12-17 12:57:41,791 INFO "GET /media/recipe_pics/Screenshot_2023-08-30_090731.png HTTP/1.1" 304 0 212 
+2023-12-17 13:06:30,531 INFO "GET /our-services/ HTTP/1.1" 200 3966 212 
+2023-12-17 13:06:31,305 INFO "GET /our-menu/ HTTP/1.1" 200 5630 212 
+2023-12-17 13:06:31,346 INFO "GET /media/recipe_pics/Screenshot_2023-08-30_090731.png HTTP/1.1" 304 0 212 
+2023-12-17 13:06:32,341 INFO "GET /allergy-advice/ HTTP/1.1" 200 3700 212 
+2023-12-17 13:06:35,237 INFO "GET /contact-us/ HTTP/1.1" 200 6145 212 
+2023-12-17 13:14:18,958 INFO "GET /allergy-advice/ HTTP/1.1" 200 3700 212 
+2023-12-17 13:25:50,106 INFO "GET /contact-us/ HTTP/1.1" 200 6145 212 
+2023-12-17 13:33:53,996 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-17 13:33:54,969 INFO Watching for file changes with StatReloader 668 
+2023-12-17 13:33:57,426 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-17 13:33:58,093 INFO Watching for file changes with StatReloader 668 
+2023-12-17 13:57:05,407 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-17 13:57:06,222 INFO Watching for file changes with StatReloader 668 
+2023-12-17 13:57:11,880 INFO C:\Users\CPN\Desktop\django_project\momo_project\everestmomo\core\views.py changed, reloading. 266 
+2023-12-17 13:57:12,612 INFO Watching for file changes with StatReloader 668 
+2023-12-17 14:15:35,925 INFO "GET / HTTP/1.1" 200 6559 212 
+2023-12-17 14:15:35,963 INFO "GET /media/recipe_pics/Screenshot_2023-08-30_090731.png HTTP/1.1" 304 0 212 
+2023-12-17 14:16:05,159 INFO "GET /our-services/ HTTP/1.1" 200 3966 212 
+2023-12-17 14:16:06,452 INFO "GET /contact-us/ HTTP/1.1" 200 6145 212 
+2023-12-17 14:16:12,215 INFO "GET /allergy-advice/ HTTP/1.1" 200 3700 212 

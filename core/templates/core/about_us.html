@@ -1,0 +1,62 @@
+{% extends 'base.html'%}
+{% load static %}
+
+{% block title %} Everest Momo | About Us {% endblock %}
+{% block customcss %}
+<link rel="stylesheet" href="{% static 'core/css/aboutus.css'%}">
+
+{% endblock %}
+
+{% block content %}
+{% include 'header.html'%}
+
+<div class="aboutus-container">
+    <!-- Header Section -->
+    <header class="aboutus-header">
+        <h1>Welcome to Everest Momo</h1>
+        <p>Discover the story behind our delicious momos.</p>
+    </header>
+
+    <!-- Message from CEO Section -->
+    <section class="ceo-section">
+        <h2>Message from CEO</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </section>
+   
+    <!-- Our Team Section -->
+    <section class="our-team-section">
+        <h2>Our Team</h2>
+        <div class="team-carousel">
+            {% for teammember in teammembers %}
+                <!-- Team Member 1 -->
+                <div class="team-member">
+                    <img src="{{ teammember.picture.url }}" alt="{{ teammember.name }}">
+                    <p>{{ teammember.name }}<br>{{ teammember.position }}</p>
+                </div>
+            {% endfor %}
+        </div>
+        <div class="pagination">
+            <span class="step-links">
+                {% if teammembers.has_previous %}
+                    <a href="?page=1">&laquo; first</a>
+                    <a href="?page={{ teammembers.previous_page_number }}">previous</a>
+                {% endif %}
+    
+                <span class="current">
+                    Page {{ teammembers.number }} of {{ teammembers.paginator.num_pages }}.
+                </span>
+    
+                {% if teammembers.has_next %}
+                    <a href="?page={{ teammembers.next_page_number }}">next</a>
+                    <a href="?page={{ teammembers.paginator.num_pages }}">last &raquo;</a>
+                {% endif %}
+            </span>
+        </div>
+        <button class="arrow-button left-arrow">&lt;</button>
+        <button class="arrow-button right-arrow">&gt;</button>
+    </section>
+    
+</div>
+{% include 'footer.html'%}
+
+{% endblock %}
