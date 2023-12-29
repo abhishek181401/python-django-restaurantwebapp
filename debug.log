@@ -1792,3 +1792,4 @@ django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 22: 's
 2023-12-29 10:06:35,522 INFO "GET /media/recipe_pics/Screenshot_2023-12-01_152454_Uir3K8H.png HTTP/1.1" 304 0 212 
 2023-12-29 10:06:35,523 INFO "GET /media/recipe_pics/Screenshot_2023-12-29_083556.png HTTP/1.1" 304 0 212 
 2023-12-29 10:06:35,524 INFO "GET /media/recipe_pics/Screenshot_2023-12-29_083350.png HTTP/1.1" 304 0 212 
+2023-12-29 13:25:09,810 INFO Watching for file changes with StatReloader 668 
